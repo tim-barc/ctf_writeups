@@ -42,7 +42,7 @@ Some of the tools frequently used in these writeups include:
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 - [John the Ripper](https://www.openwall.com/john/)
 - [Metasploit](https://www.metasploit.com/)
-- [Hydra]
+- [Hydra](https://www.kali.org/tools/hydra/)
 - [WPScan](https://wpscan.com/)
 - [GoBuster](https://www.kali.org/tools/gobuster/)
 - [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
