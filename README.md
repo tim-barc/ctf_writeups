@@ -19,7 +19,7 @@ Here is a list of the writeups included in this repository:
 - [Lazy Admin](https://www.vulnhub.com/entry/lazysysadmin-1,205/)
 - [Photographer](https://www.vulnhub.com/entry/photographer-1,519/)
 - [Mr Robot](https://www.vulnhub.com/entry/mr-robot-1,151/)
-- [RickdiculouslyEasy 1 (https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
+- [RickdiculouslyEasy 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
 
