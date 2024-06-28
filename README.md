@@ -22,6 +22,7 @@ Here is a list of the writeups included in this repository:
 - [RickdiculouslyEasy 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
+- [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
