@@ -23,6 +23,7 @@ Here is a list of the writeups included in this repository:
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
+- [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
