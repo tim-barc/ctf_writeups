@@ -49,3 +49,4 @@ Some of the tools frequently used in these writeups include:
 - [GoBuster](https://www.kali.org/tools/gobuster/)
 - [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
 - [enum4linux](https://www.kali.org/tools/enum4linux/)
+- [Snort](https://www.snort.org/)
