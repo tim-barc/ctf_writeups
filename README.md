@@ -24,6 +24,7 @@ Here is a list of the writeups included in this repository:
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
+- [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
