@@ -25,6 +25,7 @@ Here is a list of the writeups included in this repository:
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
 - [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
+- [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -52,3 +53,4 @@ Some of the tools frequently used in these writeups include:
 - [enum4linux](https://www.kali.org/tools/enum4linux/)
 - [Snort](https://www.snort.org/)
 - [Zeek](https://zeek.org/)
+- [Brim](https://www.brimdata.io/download/)
