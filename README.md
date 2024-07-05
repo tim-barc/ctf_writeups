@@ -26,6 +26,7 @@ Here is a list of the writeups included in this repository:
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
 - [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
+- [Warzone 1](https://tryhackme.com/r/room/warzoneone)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -54,3 +55,4 @@ Some of the tools frequently used in these writeups include:
 - [Snort](https://www.snort.org/)
 - [Zeek](https://zeek.org/)
 - [Brim](https://www.brimdata.io/download/)
+- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
