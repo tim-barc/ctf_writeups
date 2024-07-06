@@ -27,6 +27,7 @@ Here is a list of the writeups included in this repository:
 - [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
 - [Warzone 1](https://tryhackme.com/r/room/warzoneone)
+- [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
