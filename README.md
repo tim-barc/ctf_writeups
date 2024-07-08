@@ -28,6 +28,7 @@ Here is a list of the writeups included in this repository:
 - [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
 - [Warzone 1](https://tryhackme.com/r/room/warzoneone)
 - [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
+- [Carnage](https://tryhackme.com/r/room/c2carnage)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
