@@ -29,6 +29,7 @@ Here is a list of the writeups included in this repository:
 - [Warzone 1](https://tryhackme.com/r/room/warzoneone)
 - [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
 - [Carnage](https://tryhackme.com/r/room/c2carnage)
+- [TShark](https://tryhackme.com/r/room/tshark)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -46,6 +47,7 @@ Some of the tools frequently used in these writeups include:
 - [Nmap](https://nmap.org/) 
 - [Burp Suite](https://portswigger.net/burp)
 - [Wireshark](https://www.wireshark.org/)
+- [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 - [John the Ripper](https://www.openwall.com/john/)
 - [Metasploit](https://www.metasploit.com/)
