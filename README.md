@@ -30,6 +30,7 @@ Here is a list of the writeups included in this repository:
 - [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
 - [Carnage](https://tryhackme.com/r/room/c2carnage)
 - [TShark](https://tryhackme.com/r/room/tshark)
+- [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -60,3 +61,4 @@ Some of the tools frequently used in these writeups include:
 - [Zeek](https://zeek.org/)
 - [Brim](https://www.brimdata.io/download/)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
+- [ELK](https://www.elastic.co/elastic-stack)
