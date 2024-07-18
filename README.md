@@ -31,6 +31,7 @@ Here is a list of the writeups included in this repository:
 - [Carnage](https://tryhackme.com/r/room/c2carnage)
 - [TShark](https://tryhackme.com/r/room/tshark)
 - [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
+- [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -62,3 +63,4 @@ Some of the tools frequently used in these writeups include:
 - [Brim](https://www.brimdata.io/download/)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
 - [ELK](https://www.elastic.co/elastic-stack)
+- [Splunk](https://www.splunk.com/)
