@@ -33,6 +33,7 @@ Here is a list of the writeups included in this repository:
 - [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
 - [Benign](https://tryhackme.com/r/room/benign)
+- [SlingShot](https://tryhackme.com/r/room/slingshot)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
