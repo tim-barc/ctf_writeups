@@ -32,6 +32,7 @@ Here is a list of the writeups included in this repository:
 - [TShark](https://tryhackme.com/r/room/tshark)
 - [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
+- [Benign](https://tryhackme.com/r/room/benign)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
