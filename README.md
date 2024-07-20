@@ -34,6 +34,7 @@ Here is a list of the writeups included in this repository:
 - [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
 - [Benign](https://tryhackme.com/r/room/benign)
 - [SlingShot](https://tryhackme.com/r/room/slingshot)
+- [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
