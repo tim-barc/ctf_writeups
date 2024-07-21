@@ -35,6 +35,7 @@ Here is a list of the writeups included in this repository:
 - [Benign](https://tryhackme.com/r/room/benign)
 - [SlingShot](https://tryhackme.com/r/room/slingshot)
 - [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
+- [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
