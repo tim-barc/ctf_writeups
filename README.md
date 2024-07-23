@@ -36,6 +36,7 @@ Here is a list of the writeups included in this repository:
 - [SlingShot](https://tryhackme.com/r/room/slingshot)
 - [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
 - [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
+- [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
