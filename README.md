@@ -37,6 +37,7 @@ Here is a list of the writeups included in this repository:
 - [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
 - [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
+- [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
