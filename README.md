@@ -72,3 +72,4 @@ Some of the tools frequently used in these writeups include:
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
 - [ELK](https://www.elastic.co/elastic-stack)
 - [Splunk](https://www.splunk.com/)
+- [Wazuh](https://wazuh.com/)
