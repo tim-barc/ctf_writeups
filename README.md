@@ -39,6 +39,7 @@ Here is a list of the writeups included in this repository:
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
 - [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
 - [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
+- [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
