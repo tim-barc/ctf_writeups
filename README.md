@@ -41,6 +41,7 @@ Here is a list of the writeups included in this repository:
 - [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://tryhackme.com/r/room/retracted)
+- [Unattende](https://tryhackme.com/r/room/unattended)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -75,3 +76,5 @@ Some of the tools frequently used in these writeups include:
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
+- [Autopsy](https://www.autopsy.com/)
+- [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
