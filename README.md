@@ -42,6 +42,7 @@ Here is a list of the writeups included in this repository:
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://tryhackme.com/r/room/retracted)
 - [Unattende](https://tryhackme.com/r/room/unattended)
+- [Disgruntled](https://tryhackme.com/r/room/disgruntled)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
