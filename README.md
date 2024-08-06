@@ -7,6 +7,7 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 
 ## Writeups
 Here is a list of the writeups included in this repository:
+
 #### Pentesting
 - [Agent Sudo](https://tryhackme.com/r/room/agentsudoctf) 
 - [Anonymous](https://tryhackme.com/r/room/anonymous)
@@ -28,7 +29,7 @@ Here is a list of the writeups included in this repository:
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
 
-### Network Forensics/Packet Analysis 
+#### Network Forensics/Packet Analysis 
 - [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
 - [Warzone 1](https://tryhackme.com/r/room/warzoneone)
@@ -38,7 +39,7 @@ Here is a list of the writeups included in this repository:
 - [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
 - [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
 
-### SIEM (ELK, Splunk, etc)
+#### SIEM (ELK, Splunk, etc)
 - [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
 - [Benign](https://tryhackme.com/r/room/benign)
@@ -47,7 +48,7 @@ Here is a list of the writeups included in this repository:
 - [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
 
-### Digital Forensics (Windows Forensics)
+#### Digital Forensics (Windows Forensics)
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://tryhackme.com/r/room/retracted)
 - [Unattended](https://tryhackme.com/r/room/unattended)
@@ -68,20 +69,21 @@ The challenges covered in this repository span various categories, including:
 
 ## Tools Used
 Some of the tools frequently used in these writeups include:
-### Network Scanning and Enumeration
+
+#### Network Scanning and Enumeration
 - [Nmap](https://nmap.org/)
 - [GoBuster](https://www.kali.org/tools/gobuster/)
 - [WPScan](https://wpscan.com/)
 - [enum4linux](https://www.kali.org/tools/enum4linux/)
 
-### Vulnerability Scanning and Exploitation
+#### Vulnerability Scanning and Exploitation
 - [Burp Suite](https://portswigger.net/burp)
 - [Metasploit](https://www.metasploit.com/)
 - [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
 - [Hydra](https://www.kali.org/tools/hydra/)
 - [John the Ripper](https://www.openwall.com/john/)
 
-### Packet Analysis and Network Monitoring
+#### Packet Analysis and Network Monitoring
 - [Wireshark](https://www.wireshark.org/)
 - [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
 - [Snort](https://www.snort.org/)
@@ -89,16 +91,16 @@ Some of the tools frequently used in these writeups include:
 - [Brim](https://www.brimdata.io/download/)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
 
-### Binary Analysis 
+#### Binary Analysis 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 
-### Log Analysis and SIEM
+#### Log Analysis and SIEM
 - [ELK](https://www.elastic.co/elastic-stack)
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
 
-### Forensics and Incident Response
+#### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
 - [Volatility3](https://github.com/volatilityfoundation/volatility3)
