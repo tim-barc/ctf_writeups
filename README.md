@@ -7,6 +7,7 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 
 ## Writeups
 Here is a list of the writeups included in this repository:
+### Pentesting
 - [Agent Sudo](https://tryhackme.com/r/room/agentsudoctf) 
 - [Anonymous](https://tryhackme.com/r/room/anonymous)
 - [Basic Pentesting](https://tryhackme.com/r/room/basicpentestingjt)
@@ -22,14 +23,22 @@ Here is a list of the writeups included in this repository:
 - [RickdiculouslyEasy 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
+
+### IDS/IPS
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
+
+### Network Forensics/Packet Analysis 
 - [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
 - [Warzone 1](https://tryhackme.com/r/room/warzoneone)
 - [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
 - [Carnage](https://tryhackme.com/r/room/c2carnage)
 - [TShark](https://tryhackme.com/r/room/tshark)
+- [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
+- [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
+
+### SIEM (ELK, Splunk, etc)
 - [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
 - [Benign](https://tryhackme.com/r/room/benign)
@@ -37,11 +46,11 @@ Here is a list of the writeups included in this repository:
 - [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
 - [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
-- [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
-- [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
+
+### Digital Forensics (Windows Forensics)
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://tryhackme.com/r/room/retracted)
-- [Unattende](https://tryhackme.com/r/room/unattended)
+- [Unattended](https://tryhackme.com/r/room/unattended)
 - [Disgruntled](https://tryhackme.com/r/room/disgruntled)
 - [Secret Recipe](https://tryhackme.com/r/room/registry4n6)
 - [Critical](https://tryhackme.com/r/room/critical)
@@ -59,26 +68,37 @@ The challenges covered in this repository span various categories, including:
 
 ## Tools Used
 Some of the tools frequently used in these writeups include:
-- [Nmap](https://nmap.org/) 
-- [Burp Suite](https://portswigger.net/burp)
+### Network Scanning and Enumeration
+- [Nmap](https://nmap.org/)
+- [GoBuster](https://www.kali.org/tools/gobuster/)
+- [WPScan](https://wpscan.com/)
+- [enum4linux](https://www.kali.org/tools/enum4linux/)
+
+### Vulnerability Scanning and Exploitation
+- [Burp Suite](https://portswigger.net/burp
+- [Metasploit](https://www.metasploit.com/)
+- [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
+- [Hydra](https://www.kali.org/tools/hydra/)
+- [John the Ripper](https://www.openwall.com/john/)
+
+### Packet Analysis and Network Monitoring
 - [Wireshark](https://www.wireshark.org/)
 - [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
-- [Binwalk](https://github.com/ReFirmLabs/binwalk)
-- [John the Ripper](https://www.openwall.com/john/)
-- [Metasploit](https://www.metasploit.com/)
-- [Hydra](https://www.kali.org/tools/hydra/)
-- [WPScan](https://wpscan.com/)
-- [GoBuster](https://www.kali.org/tools/gobuster/)
-- [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
-- [enum4linux](https://www.kali.org/tools/enum4linux/)
 - [Snort](https://www.snort.org/)
 - [Zeek](https://zeek.org/)
 - [Brim](https://www.brimdata.io/download/)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
+
+### Binary Analysis 
+- [Binwalk](https://github.com/ReFirmLabs/binwalk)
+
+### Log Analysis and SIEM
 - [ELK](https://www.elastic.co/elastic-stack)
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
+
+### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
 - [Volatility3](https://github.com/volatilityfoundation/volatility3)
