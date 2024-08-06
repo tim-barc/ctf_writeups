@@ -43,6 +43,7 @@ Here is a list of the writeups included in this repository:
 - [Retracted](https://tryhackme.com/r/room/retracted)
 - [Unattende](https://tryhackme.com/r/room/unattended)
 - [Disgruntled](https://tryhackme.com/r/room/disgruntled)
+- [Secret Recipe](https://tryhackme.com/r/room/registry4n6) 
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
