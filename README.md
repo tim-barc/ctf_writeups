@@ -7,7 +7,7 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 
 ## Writeups
 Here is a list of the writeups included in this repository:
-### Pentesting
+#### Pentesting
 - [Agent Sudo](https://tryhackme.com/r/room/agentsudoctf) 
 - [Anonymous](https://tryhackme.com/r/room/anonymous)
 - [Basic Pentesting](https://tryhackme.com/r/room/basicpentestingjt)
@@ -24,7 +24,7 @@ Here is a list of the writeups included in this repository:
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
 
-### IDS/IPS
+#### IDS/IPS
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
 
@@ -75,7 +75,7 @@ Some of the tools frequently used in these writeups include:
 - [enum4linux](https://www.kali.org/tools/enum4linux/)
 
 ### Vulnerability Scanning and Exploitation
-- [Burp Suite](https://portswigger.net/burp
+- [Burp Suite](https://portswigger.net/burp)
 - [Metasploit](https://www.metasploit.com/)
 - [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
 - [Hydra](https://www.kali.org/tools/hydra/)
