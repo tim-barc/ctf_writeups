@@ -81,3 +81,4 @@ Some of the tools frequently used in these writeups include:
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
+- [Volatility3](https://github.com/volatilityfoundation/volatility3)
