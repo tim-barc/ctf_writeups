@@ -58,6 +58,7 @@ Here is a list of the writeups included in this repository:
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
+- [Snapped Phish-ing Line](https://tryhackme.com/r/room/snappedphishingline) 
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
