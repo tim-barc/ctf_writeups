@@ -58,7 +58,10 @@ Here is a list of the writeups included in this repository:
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
-- [Snapped Phish-ing Line](https://tryhackme.com/r/room/snappedphishingline) 
+- [Snapped Phish-ing Line](https://tryhackme.com/r/room/snappedphishingline)
+
+#### CTI
+- [Trooper](https://tryhackme.com/r/room/trooper)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -103,6 +106,9 @@ Some of the tools frequently used in these writeups include:
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
+
+#### CTI
+- [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
