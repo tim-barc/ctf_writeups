@@ -60,7 +60,7 @@ Here is a list of the writeups included in this repository:
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
 - [Snapped Phish-ing Line](https://tryhackme.com/r/room/snappedphishingline)
 
-#### CTI
+#### Cyber Threat Intelligence (CTI)
 - [Trooper](https://tryhackme.com/r/room/trooper)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
@@ -107,7 +107,7 @@ Some of the tools frequently used in these writeups include:
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
 
-#### CTI
+#### Cyber Threat Intelligence (CTI)
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
 
 #### Forensics and Incident Response
