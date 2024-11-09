@@ -55,6 +55,7 @@ Here is a list of the writeups included in this repository:
 - [Disgruntled](https://tryhackme.com/r/room/disgruntled)
 - [Secret Recipe](https://tryhackme.com/r/room/registry4n6)
 - [Critical](https://tryhackme.com/r/room/critical)
+- [Tempest](https://tryhackme.com/r/room/tempestincident)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
