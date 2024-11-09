@@ -106,6 +106,7 @@ Some of the tools frequently used in these writeups include:
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
+- [Sysmon-View](https://github.com/nshalabi/SysmonTools)
 
 #### Cyber Threat Intelligence (CTI)
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
