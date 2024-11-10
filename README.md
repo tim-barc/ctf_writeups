@@ -64,6 +64,9 @@ Here is a list of the writeups included in this repository:
 #### Cyber Threat Intelligence (CTI)
 - [Trooper](https://tryhackme.com/r/room/trooper)
 
+#### Log Analysis and Network Forensics
+- [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
+
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
 ## Challenges
