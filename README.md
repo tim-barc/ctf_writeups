@@ -47,6 +47,7 @@ Here is a list of the writeups included in this repository:
 - [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
 - [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
+- [Boogeyman 3](https://tryhackme.com/r/room/boogeyman3)
 
 #### Digital Forensics (Windows Forensics)
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
