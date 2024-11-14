@@ -69,6 +69,9 @@ Here is a list of the writeups included in this repository:
 #### Log Analysis and Network Forensics
 - [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
 
+#### Malware Analysis
+- [MalBuster](https://tryhackme.com/r/room/malbuster)
+
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
 ## Challenges
@@ -117,6 +120,12 @@ Some of the tools frequently used in these writeups include:
 #### Cyber Threat Intelligence (CTI)
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
 - [Mitre ATT&CK Matrix](https://attack.mitre.org/)
+
+#### Malware Analysis
+- [pestudio](https://www.winitor.com/download)
+- [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
+- [capa](https://github.com/mandiant/capa)
+- [Floss](https://github.com/mandiant/flare-floss)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
