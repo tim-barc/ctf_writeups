@@ -71,6 +71,7 @@ Here is a list of the writeups included in this repository:
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
+- [Mr. Phisher](https://tryhackme.com/r/room/mrphisher) 
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
