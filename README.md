@@ -71,7 +71,8 @@ Here is a list of the writeups included in this repository:
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
-- [Mr. Phisher](https://tryhackme.com/r/room/mrphisher) 
+- [Mr. Phisher](https://tryhackme.com/r/room/mrphisher)
+- [Dunkle Materie](https://tryhackme.com/r/room/dunklematerieptxc9)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
@@ -127,6 +128,7 @@ Some of the tools frequently used in these writeups include:
 - [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
 - [capa](https://github.com/mandiant/capa)
 - [Floss](https://github.com/mandiant/flare-floss)
+- [ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
