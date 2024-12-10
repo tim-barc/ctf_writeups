@@ -65,6 +65,7 @@ Here is a list of the writeups included in this repository:
 
 #### Cyber Threat Intelligence (CTI)
 - [Trooper](https://tryhackme.com/r/room/trooper)
+- [Yellow RAT](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/)
 
 #### Log Analysis and Network Forensics
 - [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
