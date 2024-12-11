@@ -70,7 +70,8 @@ Here is a list of the writeups included in this repository:
 
 #### Log Analysis and Network Forensics
 - [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
-- [PacketDetective](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/) 
+- [PacketDetective](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/)
+- [DanaBot](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
