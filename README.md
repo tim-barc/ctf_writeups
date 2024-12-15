@@ -73,7 +73,8 @@ Here is a list of the writeups included in this repository:
 - [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
 - [PacketDetective](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/)
 - [DanaBot](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)
-- [Web Investigation](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/) 
+- [Web Investigation](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/)
+- [WebStrike](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) 
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
