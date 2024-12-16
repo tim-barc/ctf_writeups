@@ -138,6 +138,8 @@ Some of the tools frequently used in these writeups include:
 - [capa](https://github.com/mandiant/capa)
 - [Floss](https://github.com/mandiant/flare-floss)
 - [ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm)
+- [Olevba](https://github.com/decalage2/oletools/blob/master/oletools/olevba.py)
+- [Oledump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
