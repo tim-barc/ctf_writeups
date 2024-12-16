@@ -74,7 +74,8 @@ Here is a list of the writeups included in this repository:
 - [PacketDetective](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/)
 - [DanaBot](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)
 - [Web Investigation](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/)
-- [WebStrike](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) 
+- [WebStrike](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/)
+- [PoisonedCredentials](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
