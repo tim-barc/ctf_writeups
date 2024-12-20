@@ -78,6 +78,7 @@ Here is a list of the writeups included in this repository:
 - [WebStrike](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/)
 - [PoisonedCredentials](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/)
 - [TomCat Takeover](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/)
+- [PsExec Hunt](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
