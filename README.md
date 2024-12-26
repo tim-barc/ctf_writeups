@@ -49,7 +49,7 @@ Here is a list of the writeups included in this repository:
 - [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
 - [Boogeyman 3](https://tryhackme.com/r/room/boogeyman3)
 
-#### Digital Forensics (Windows Forensics)
+#### Digital Forensics 
 - [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://tryhackme.com/r/room/retracted)
 - [Unattended](https://tryhackme.com/r/room/unattended)
@@ -60,6 +60,7 @@ Here is a list of the writeups included in this repository:
 - [Boogeyman 2](https://tryhackme.com/r/room/boogeyman2)
 - [Ramnit](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/)
 - [Reveal](https://cyberdefenders.org/blueteam-ctf-challenges/reveal/)
+- [FakeGPT](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
