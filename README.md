@@ -62,6 +62,7 @@ Here is a list of the writeups included in this repository:
 - [Reveal](https://cyberdefenders.org/blueteam-ctf-challenges/reveal/)
 - [FakeGPT](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/)
 - [Brave](https://cyberdefenders.org/blueteam-ctf-challenges/brave/)
+- [Redline](https://cyberdefenders.org/blueteam-ctf-challenges/redline/)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
