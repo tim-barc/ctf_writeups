@@ -65,6 +65,7 @@ Here is a list of the writeups included in this repository:
 - [Redline](https://cyberdefenders.org/blueteam-ctf-challenges/redline/)
 - [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis)
 - [Lockbit](https://app.letsdefend.io/challenge/lockbit)
+- [WinRar 0-Day](https://app.letsdefend.io/challenge/winrar-0-day)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
