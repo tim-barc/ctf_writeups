@@ -64,6 +64,7 @@ Here is a list of the writeups included in this repository:
 - [Brave](https://cyberdefenders.org/blueteam-ctf-challenges/brave/)
 - [Redline](https://cyberdefenders.org/blueteam-ctf-challenges/redline/)
 - [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis)
+- [Lockbit](https://app.letsdefend.io/challenge/lockbit)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
