@@ -86,6 +86,7 @@ Here is a list of the writeups included in this repository:
 - [PoisonedCredentials](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/)
 - [TomCat Takeover](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/)
 - [PsExec Hunt](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/)
+- [Shellshock Attack](https://app.letsdefend.io/challenge/shellshock-attack)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
