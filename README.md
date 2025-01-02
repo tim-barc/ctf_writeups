@@ -152,6 +152,7 @@ Some of the tools frequently used in these writeups include:
 - [ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm)
 - [Olevba](https://github.com/decalage2/oletools/blob/master/oletools/olevba.py)
 - [Oledump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
+- [IDA Free](https://hex-rays.com/ida-free)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
