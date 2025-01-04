@@ -96,6 +96,7 @@ Here is a list of the writeups included in this repository:
 - [Dunkle Materie](https://tryhackme.com/r/room/dunklematerieptxc9)
 - [Maldoc101](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/)
 - [Downloader](https://app.letsdefend.io/challenge/downloader)
+- [Malicious Doc](https://app.letsdefend.io/challenge/malicious-doic)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
