@@ -88,6 +88,7 @@ Here is a list of the writeups included in this repository:
 - [PsExec Hunt](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/)
 - [Shellshock Attack](https://app.letsdefend.io/challenge/shellshock-attack)
 - [HTTP Basic Auth](https://app.letsdefend.io/challenge/http-basic-auth)
+- [Brute Force Attack](https://app.letsdefend.io/challenge/brute-force-attacks)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
