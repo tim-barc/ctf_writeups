@@ -98,6 +98,7 @@ Here is a list of the writeups included in this repository:
 - [Maldoc101](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/)
 - [Downloader](https://app.letsdefend.io/challenge/downloader)
 - [Malicious Doc](https://app.letsdefend.io/challenge/malicious-doic)
+- [PowerShell Script](https://app.letsdefend.io/challenge/powershell-script)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
