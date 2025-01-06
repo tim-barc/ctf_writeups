@@ -100,6 +100,9 @@ Here is a list of the writeups included in this repository:
 - [Malicious Doc](https://app.letsdefend.io/challenge/malicious-doic)
 - [PowerShell Script](https://app.letsdefend.io/challenge/powershell-script)
 
+#### Reverse Engineering
+- [Reversing ELF](https://tryhackme.com/r/room/reverselfiles)
+
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
 ## Challenges
@@ -158,6 +161,7 @@ Some of the tools frequently used in these writeups include:
 - [Olevba](https://github.com/decalage2/oletools/blob/master/oletools/olevba.py)
 - [Oledump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
 - [IDA Free](https://hex-rays.com/ida-free)
+- [Radare2](https://rada.re/n/)
 
 #### Forensics and Incident Response
 - [Autopsy](https://www.autopsy.com/)
