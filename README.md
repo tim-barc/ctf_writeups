@@ -102,6 +102,7 @@ Here is a list of the writeups included in this repository:
 
 #### Reverse Engineering
 - [Reversing ELF](https://tryhackme.com/r/room/reverselfiles)
+- [DLL Stealer](https://app.letsdefend.io/challenge/dll-stealer)
 
 Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
 
