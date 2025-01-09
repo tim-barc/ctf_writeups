@@ -25,6 +25,7 @@ Here is a list of the writeups included in this repository:
 - [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
 - [Toolsrus](https://tryhackme.com/r/room/toolsrus)
 - [Lookup](https://tryhackme.com/r/room/lookup)
+- [Wgel CTF](https://tryhackme.com/r/room/wgelctf)
 
 #### IDS/IPS
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
