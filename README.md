@@ -91,6 +91,7 @@ Here is a list of the writeups included in this repository:
 - [Shellshock Attack](https://app.letsdefend.io/challenge/shellshock-attack)
 - [HTTP Basic Auth](https://app.letsdefend.io/challenge/http-basic-auth)
 - [Brute Force Attack](https://app.letsdefend.io/challenge/brute-force-attacks)
+- [OpenWire Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/)
 
 #### Malware Analysis
 - [MalBuster](https://tryhackme.com/r/room/malbuster)
