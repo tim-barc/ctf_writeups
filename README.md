@@ -27,6 +27,7 @@ Here is a list of the writeups included in this repository:
 - [Lookup](https://tryhackme.com/r/room/lookup)
 - [Wgel CTF](https://tryhackme.com/r/room/wgelctf)
 - [Dav](https://tryhackme.com/r/room/bsidesgtdav)
+- [Silver Platter](https://tryhackme.com/r/room/silverplatter)
 
 #### IDS/IPS
 - [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
