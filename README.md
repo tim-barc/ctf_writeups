@@ -71,6 +71,7 @@ Here is a list of the writeups included in this repository:
 - [Lockbit](https://app.letsdefend.io/challenge/lockbit)
 - [WinRar 0-Day](https://app.letsdefend.io/challenge/winrar-0-day)
 - [BlackEnergy Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/)
+- [Memory Analayis - Ransomware](https://blueteamlabs.online/home/challenge/memory-analysis-ransomware-7da6c9244d)
 
 #### Email Analysis
 - [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
