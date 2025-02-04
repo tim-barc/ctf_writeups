@@ -105,6 +105,7 @@ Here is a list of the writeups included in this repository:
 - [Downloader](https://app.letsdefend.io/challenge/downloader)
 - [Malicious Doc](https://app.letsdefend.io/challenge/malicious-doic)
 - [PowerShell Script](https://app.letsdefend.io/challenge/powershell-script)
+- [Suspicious USB Stick](https://blueteamlabs.online/home/challenge/suspicious-usb-stick-2f18a6b124)
 
 #### Reverse Engineering
 - [Reversing ELF](https://tryhackme.com/r/room/reverselfiles)
