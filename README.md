@@ -107,6 +107,7 @@ Here is a list of the writeups included in this repository:
 - [PowerShell Script](https://app.letsdefend.io/challenge/powershell-script)
 - [Suspicious USB Stick](https://blueteamlabs.online/home/challenge/suspicious-usb-stick-2f18a6b124)
 - [Reverse Engineering - A Classic Injection](https://blueteamlabs.online/home/challenge/reverse-engineering-a-classic-injection-9791a9b784)
+- [PowerShell Analysis - Keylogger](https://blueteamlabs.online/home/challenge/powershell-analysis-keylogger-9f4ab9a11c)
 
 #### Reverse Engineering
 - [Reversing ELF](https://tryhackme.com/r/room/reverselfiles)
