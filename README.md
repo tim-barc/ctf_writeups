@@ -12,29 +12,29 @@ The writeups in this repository are categorised based on the nature of the chall
   <tr>
     <td>
       <ul>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf">Agent Sudo</a> - <a href="https://tryhackme.com/r/room/agentsudoctf">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf">Anonymous</a> - <a href="https://tryhackme.com/r/room/anonymous">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf">Basic Pentesting</a> - <a href="https://tryhackme.com/r/room/basicpentestingjt">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf">Blogger1</a> - <a href="https://www.vulnhub.com/entry/blogger-1,675/#top">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf">Bounty Hacker</a> - <a href="https://tryhackme.com/r/room/cowboyhacker">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf">Colddbox THM</a> - <a href="https://tryhackme.com/r/room/colddboxeasy">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf">Colddbox Vulnhub</a> - <a href="https://www.vulnhub.com/entry/colddbox-easy,586/">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf">Easy Peasy</a> - <a href="https://tryhackme.com/r/room/easypeasyctf">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf">IDE</a> - <a href="https://tryhackme.com/r/room/ide">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf">Lazy Admin</a> - <a href="https://www.vulnhub.com/entry/lazysysadmin-1,205/">Challenge Link</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf">Agent Sudo</a> - <a href="https://tryhackme.com/r/room/agentsudoctf">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf">Anonymous</a> - <a href="https://tryhackme.com/r/room/anonymous">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf">Basic Pentesting</a> - <a href="https://tryhackme.com/r/room/basicpentestingjt">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf">Blogger1</a> - <a href="https://www.vulnhub.com/entry/blogger-1,675/#top">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf">Bounty Hacker</a> - <a href="https://tryhackme.com/r/room/cowboyhacker">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf">Colddbox THM</a> - <a href="https://tryhackme.com/r/room/colddboxeasy">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf">Colddbox Vulnhub</a> - <a href="https://www.vulnhub.com/entry/colddbox-easy,586/">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf">Easy Peasy</a> - <a href="https://tryhackme.com/r/room/easypeasyctf">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf">IDE</a> - <a href="https://tryhackme.com/r/room/ide">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf">Lazy Admin</a> - <a href="https://www.vulnhub.com/entry/lazysysadmin-1,205/">VulnHub</a></li>
       </ul>
     </td>
     <td>
       <ul>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf">Photographer</a> - <a href="https://www.vulnhub.com/entry/photographer-1,519/">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf">Mr Robot</a> - <a href="https://www.vulnhub.com/entry/mr-robot-1,151/">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf">Pickle Rick</a> - <a href="https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf">Raven 1</a> - <a href="https://www.vulnhub.com/entry/raven-1,256/">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf">Toolsrus</a> - <a href="https://tryhackme.com/r/room/toolsrus">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf">Lookup</a> - <a href="https://tryhackme.com/r/room/lookup">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf">Wgel CTF</a> - <a href="https://tryhackme.com/r/room/wgelctf">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf">Dav</a> - <a href="https://tryhackme.com/r/room/bsidesgtdav">Challenge Link</a></li>
-        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf">Silver Platter</a> - <a href="https://tryhackme.com/r/room/silverplatter">Challenge Link</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf">Photographer</a> - <a href="https://www.vulnhub.com/entry/photographer-1,519/">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf">Mr Robot</a> - <a href="https://www.vulnhub.com/entry/mr-robot-1,151/">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf">Pickle Rick</a> - <a href="https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf">Raven 1</a> - <a href="https://www.vulnhub.com/entry/raven-1,256/">VulnHub</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf">Toolsrus</a> - <a href="https://tryhackme.com/r/room/toolsrus">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf">Lookup</a> - <a href="https://tryhackme.com/r/room/lookup">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf">Wgel CTF</a> - <a href="https://tryhackme.com/r/room/wgelctf">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf">Dav</a> - <a href="https://tryhackme.com/r/room/bsidesgtdav">TryHackMe</a></li>
+        <li><a href="https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf">Silver Platter</a> - <a href="https://tryhackme.com/r/room/silverplatter">TryHackMe</a></li>
       </ul>
     </td>
   </tr>
