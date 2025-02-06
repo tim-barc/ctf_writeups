@@ -1,147 +1,137 @@
 # CTF Writeups
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 
-
 ## Introduction
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
 
-## Writeups
-Here is a list of the writeups included in this repository:
+## 📂 Writeups
+The writeups in this repository are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used.
 
-#### Pentesting
-- [Agent Sudo](https://tryhackme.com/r/room/agentsudoctf) 
-- [Anonymous](https://tryhackme.com/r/room/anonymous)
-- [Basic Pentesting](https://tryhackme.com/r/room/basicpentestingjt)
-- [Blogger1](https://www.vulnhub.com/entry/blogger-1,675/#top)
-- [Bounty Hacker](https://tryhackme.com/r/room/cowboyhacker)
-- [Colddbox THM](https://tryhackme.com/r/room/colddboxeasy)
-- [Colddbox Vulnhub](https://www.vulnhub.com/entry/colddbox-easy,586/)
-- [Easy peasy](https://tryhackme.com/r/room/easypeasyctf)
-- [IDE](https://tryhackme.com/r/room/ide)
-- [Lazy Admin](https://www.vulnhub.com/entry/lazysysadmin-1,205/)
-- [Photographer](https://www.vulnhub.com/entry/photographer-1,519/)
-- [Mr Robot](https://www.vulnhub.com/entry/mr-robot-1,151/)
-- [RickdiculouslyEasy 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
-- [Raven 1](https://www.vulnhub.com/entry/raven-1,256/)
-- [Toolsrus](https://tryhackme.com/r/room/toolsrus)
-- [Lookup](https://tryhackme.com/r/room/lookup)
-- [Wgel CTF](https://tryhackme.com/r/room/wgelctf)
-- [Dav](https://tryhackme.com/r/room/bsidesgtdav)
-- [Silver Platter](https://tryhackme.com/r/room/silverplatter)
+### 🔥 **Pentesting**
+- [Agent Sudo](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf) 
+- [Anonymous](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf)
+- [Basic Pentesting](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf)
+- [Blogger1](https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf)
+- [Bounty Hacker](https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf)
+- [Colddbox THM](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf)
+- [Colddbox Vulnhub](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf)
+- [Easy peasy](https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf)
+- [IDE](https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf)
+- [Lazy Admin](https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf)
+- [Photographer](https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf)
+- [Mr Robot](https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf)
+- [Pickle Rick](https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf)
+- [Raven 1](https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf)
+- [Toolsrus](https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf)
+- [Lookup](https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf)
+- [Wgel CTF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf)
+- [Dav](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf)
+- [Silver Platter](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf)
 
-#### IDS/IPS
-- [Snort Challenge](https://tryhackme.com/r/room/snortchallenges2)
-- [Snort Challenge: Live Attacks](https://tryhackme.com/jr/snortchallenges2)
+### 🛡 **IDS/IPS**
+- [Snort Challenge](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)
+- [Snort Challenge: Live Attacks](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf)
 
-#### Network Forensics/Packet Analysis 
-- [Zeek Exercises](https://tryhackme.com/r/room/zeekbroexercises)
-- [Masterminds](https://tryhackme.com/r/room/mastermindsxlq)
-- [Warzone 1](https://tryhackme.com/r/room/warzoneone)
-- [Warzone 2](https://tryhackme.com/r/room/warzonetwo)
-- [Carnage](https://tryhackme.com/r/room/c2carnage)
-- [TShark](https://tryhackme.com/r/room/tshark)
-- [TShark Challenge 1: Teamwork](https://tryhackme.com/r/room/tsharkchallengesone)
-- [Tshark Challenge II: Directory](https://tryhackme.com/r/room/tsharkchallengestwo)
+### 📡 **Network Forensics/Packet Analysis**
+- [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
+- [Masterminds](https://github.com/tim-barc/ctf_writeups/blob/main/masterminds.pdf)
+- [Warzone 1](https://tryhackme.com/r/room/warzoneonehttps://github.com/tim-barc/ctf_writeups/blob/main/warzone1.pdf)
+- [Warzone 2](https://github.com/tim-barc/ctf_writeups/blob/main/warzone_2_challenge.pdf)
+- [Carnage](https://github.com/tim-barc/ctf_writeups/blob/main/carnage_writeup.pdf)
+- [TShark](https://github.com/tim-barc/ctf_writeups/blob/main/tshark.pdf)
+- [TShark Challenge 1: Teamwork](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_1_teamwork.pdf)
+- [Tshark Challenge II: Directory](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_2_directory.pdf
 
-#### SIEM (ELK, Splunk, etc)
-- [ItsyBitsy](https://tryhackme.com/r/room/itsybitsy)
-- [Investigating with Splunk](https://tryhackme.com/r/room/investigatingwithsplunk)
-- [Benign](https://tryhackme.com/r/room/benign)
-- [SlingShot](https://tryhackme.com/r/room/slingshot)
-- [Conti](https://tryhackme.com/r/room/contiransomwarehgh)
-- [PS Eclipse](https://tryhackme.com/r/room/posheclipse)
-- [New Hire Old Artifacts](https://tryhackme.com/r/room/newhireoldartifacts)
-- [Boogeyman 3](https://tryhackme.com/r/room/boogeyman3)
+### 📊 **SIEM (ELK, Splunk, etc.)**
+- [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
+- [Investigating with Splunk](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf)
+- [Benign](https://github.com/tim-barc/ctf_writeups/blob/main/benign.pdf)
+- [SlingShot](https://github.com/tim-barc/ctf_writeups/blob/main/slingshot.pdf)
+- [Conti](https://github.com/tim-barc/ctf_writeups/blob/main/conti.pdf)
+- [PS Eclipse](https://github.com/tim-barc/ctf_writeups/blob/main/pseclipse.pdf)
+- [New Hire Old Artifacts](https://github.com/tim-barc/ctf_writeups/blob/main/new_hire_old_artifacts.pdf)
+- [Boogeyman 3](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)
 
-#### Digital Forensics 
-- [Monday Monitor](https://tryhackme.com/r/room/mondaymonitor)
-- [Retracted](https://tryhackme.com/r/room/retracted)
-- [Unattended](https://tryhackme.com/r/room/unattended)
-- [Disgruntled](https://tryhackme.com/r/room/disgruntled)
-- [Secret Recipe](https://tryhackme.com/r/room/registry4n6)
-- [Critical](https://tryhackme.com/r/room/critical)
-- [Tempest](https://tryhackme.com/r/room/tempestincident)
-- [Boogeyman 2](https://tryhackme.com/r/room/boogeyman2)
-- [Ramnit](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/)
-- [Reveal](https://cyberdefenders.org/blueteam-ctf-challenges/reveal/)
-- [FakeGPT](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/)
-- [Brave](https://cyberdefenders.org/blueteam-ctf-challenges/brave/)
-- [Redline](https://cyberdefenders.org/blueteam-ctf-challenges/redline/)
-- [Memory Analysis](https://app.letsdefend.io/challenge/memory-analysis)
-- [Lockbit](https://app.letsdefend.io/challenge/lockbit)
-- [WinRar 0-Day](https://app.letsdefend.io/challenge/winrar-0-day)
-- [BlackEnergy Lab](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/)
-- [Memory Analayis - Ransomware](https://blueteamlabs.online/home/challenge/memory-analysis-ransomware-7da6c9244d)
+### 🕵️ **Digital Forensics**
+- [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
+- [Retracted](https://github.com/tim-barc/ctf_writeups/blob/main/retracted.pdf)
+- [Unattended](https://github.com/tim-barc/ctf_writeups/blob/main/unattended.pdf)
+- [Disgruntled](https://github.com/tim-barc/ctf_writeups/blob/main/disgruntled.pdf)
+- [Secret Recipe](https://github.com/tim-barc/ctf_writeups/blob/main/secret_recipe.pdf)
+- [Critical](https://github.com/tim-barc/ctf_writeups/blob/main/critical.pdf)
+- [Tempest](https://github.com/tim-barc/ctf_writeups/blob/main/temptest_writeup.pdf)
+- [Boogeyman 2](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman2_writeup.pdf)
+- [Ramnit](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_ramnit_lab.pdf)
+- [Reveal](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_reveal_lab.pdf)
+- [FakeGPT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_fakegpt_lab.pdf)
+- [Brave](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_brave_lab.pdf)
+- [Redline](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_redline_lab.pdf)
+- [Memory Analysis](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_memory_analysis.pdf)
+- [Lockbit](https://github.com/tim-barc/ctf_writeups/blob/main/lockbit.pdf)
+- [WinRar 0-Day](https://github.com/tim-barc/ctf_writeups/blob/main/win_rar_0_day.pdf)
+- [BlackEnergy Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_black_energy_lab.pdf)
+- [Memory Analayis - Ransomware](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_memory_analysis_ransomware.pdf)
 
-#### Email Analysis
-- [Greenholt Phish](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
-- [Snapped Phish-ing Line](https://tryhackme.com/r/room/snappedphishingline)
+### 📧 **Email Analysis**
+- [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
+- [Snapped Phish-ing Line](https://github.com/tim-barc/ctf_writeups/blob/main/snapped_phishing_line_writeup.pdf)
 
-#### Cyber Threat Intelligence (CTI)
-- [Trooper](https://tryhackme.com/r/room/trooper)
-- [Yellow RAT](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/)
-- [GrabThePhiser](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
-- [Red Stealer](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/)
+### 🕵️‍♂️ **Cyber Threat Intelligence (CTI)**
+- [Trooper](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)
+- [Yellow RAT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf)
+- [GrabThePhiser](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_grab_the_phisher_lab.pdf)
+- [Red Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_red_stealer_lab.pdf)
 
-#### Log Analysis and Network Forensics
-- [Boogeyman 1](https://tryhackme.com/r/room/boogeyman1)
-- [PacketDetective](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/)
-- [DanaBot](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)
-- [Web Investigation](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/)
-- [WebStrike](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/)
-- [PoisonedCredentials](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/)
-- [TomCat Takeover](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/)
-- [PsExec Hunt](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/)
-- [Shellshock Attack](https://app.letsdefend.io/challenge/shellshock-attack)
-- [HTTP Basic Auth](https://app.letsdefend.io/challenge/http-basic-auth)
-- [Brute Force Attack](https://app.letsdefend.io/challenge/brute-force-attacks)
-- [OpenWire Lab](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/)
+### 📜 **Log Analysis and Network Forensics**
+- [Boogeyman 1](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)
+- [PacketDetective](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_pakcet_defective_lab.pdf)
+- [DanaBot](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_dana_bot.pdf)
+- [Web Investigation](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_web_investigation_lab.pdf)
+- [WebStrike](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_webstrike_lab.pdf)
+- [PoisonedCredentials](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_poisoned_credentials_lab.pdf)
+- [TomCat Takeover](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tomcat_takeover_lab.pdf)
+- [PsExec Hunt](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_psexec_hunt_lab.pdf)
+- [Shellshock Attack](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_shellshock.pdf)
+- [HTTP Basic Auth](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_http_basic_auth.pdf)
+- [Brute Force Attack](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_brute_force_attack.pdf)
+- [OpenWire Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_openwire_lab.pdf)
 
-#### Malware Analysis
-- [MalBuster](https://tryhackme.com/r/room/malbuster)
-- [Mr. Phisher](https://tryhackme.com/r/room/mrphisher)
-- [Dunkle Materie](https://tryhackme.com/r/room/dunklematerieptxc9)
-- [Maldoc101](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/)
-- [Downloader](https://app.letsdefend.io/challenge/downloader)
-- [Malicious Doc](https://app.letsdefend.io/challenge/malicious-doic)
-- [PowerShell Script](https://app.letsdefend.io/challenge/powershell-script)
-- [Suspicious USB Stick](https://blueteamlabs.online/home/challenge/suspicious-usb-stick-2f18a6b124)
-- [Reverse Engineering - A Classic Injection](https://blueteamlabs.online/home/challenge/reverse-engineering-a-classic-injection-9791a9b784)
-- [PowerShell Analysis - Keylogger](https://blueteamlabs.online/home/challenge/powershell-analysis-keylogger-9f4ab9a11c)
+### 🦠 **Malware Analysis**
+- [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
+- [Mr. Phisher](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)
+- [Dunkle Materie](https://github.com/tim-barc/ctf_writeups/blob/main/dunkle_materie_writeup.pdf)
+- [Maldoc101](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_maldoc_101_lab.pdf)
+- [Downloader](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_downloader.pdf)
+- [Malicious Doc](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_malicious_doc.pdf)
+- [PowerShell Script](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_powershell_script.pdf)
+- [Suspicious USB Stick](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_suspicious_usb_stick.pdf)
+- [Reverse Engineering - A Classic Injection](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_a_classic_injection.pdf)
+- [PowerShell Analysis - Keylogger](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_powershell_analysis_keylogger.pdf)
 
-#### Reverse Engineering
-- [Reversing ELF](https://tryhackme.com/r/room/reverselfiles)
-- [DLL Stealer](https://app.letsdefend.io/challenge/dll-stealer)
-- [Beginner Crackme](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)
+### 🔄 **Reverse Engineering**
+- [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
+- [DLL Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf)
+- [Beginner Crackme](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)
 
-Each writeup contains a detailed explanation of the challenge, the steps taken to solve it, and the tools used. 
-
-## Challenges
-The challenges covered in this repository span various categories, including:
-- Web Exploitation
-- Brute-forcing
-- Network Scanning and Enumeration
-- Privilege Escalation
-- Steganography
-- SMB Enumeration and Exploitation
+---
 
 ## Tools Used
 Some of the tools frequently used in these writeups include:
 
-#### Network Scanning and Enumeration
+### **Network Scanning and Enumeration**
 - [Nmap](https://nmap.org/)
 - [GoBuster](https://www.kali.org/tools/gobuster/)
 - [WPScan](https://wpscan.com/)
 - [enum4linux](https://www.kali.org/tools/enum4linux/)
 
-#### Vulnerability Scanning and Exploitation
+### **Vulnerability Scanning and Exploitation**
 - [Burp Suite](https://portswigger.net/burp)
 - [Metasploit](https://www.metasploit.com/)
 - [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
 - [Hydra](https://www.kali.org/tools/hydra/)
 - [John the Ripper](https://www.openwall.com/john/)
 
-#### Packet Analysis and Network Monitoring
+### **Packet Analysis and Network Monitoring**
 - [Wireshark](https://www.wireshark.org/)
 - [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
 - [Snort](https://www.snort.org/)
@@ -149,21 +139,21 @@ Some of the tools frequently used in these writeups include:
 - [Brim](https://www.brimdata.io/download/)
 - [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
 
-#### Binary Analysis 
+### **Binary Analysis**
 - [Binwalk](https://github.com/ReFirmLabs/binwalk)
 
-#### Log Analysis and SIEM
+### **Log Analysis and SIEM**
 - [ELK](https://www.elastic.co/elastic-stack)
 - [Splunk](https://www.splunk.com/)
 - [Wazuh](https://wazuh.com/)
 - [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
 - [Sysmon-View](https://github.com/nshalabi/SysmonTools)
 
-#### Cyber Threat Intelligence (CTI)
+### **Cyber Threat Intelligence (CTI)**
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
 - [Mitre ATT&CK Matrix](https://attack.mitre.org/)
 
-#### Malware Analysis
+### **Malware Analysis**
 - [pestudio](https://www.winitor.com/download)
 - [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
 - [capa](https://github.com/mandiant/capa)
@@ -174,7 +164,21 @@ Some of the tools frequently used in these writeups include:
 - [IDA Free](https://hex-rays.com/ida-free)
 - [Radare2](https://rada.re/n/)
 
-#### Forensics and Incident Response
+### **Forensics and Incident Response**
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
 - [Volatility3](https://github.com/volatilityfoundation/volatility3)
+
+---
+
+## 📢 **Contributions & Feedback**
+- Feel free to fork this repository and contribute additional writeups.
+- If you find any errors or improvements, please submit an issue.
+- Connect with me for discussions or feedback.
+
+## 🏆 **Acknowledgments**
+A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
+
+---
+
+🔹 Happy Hacking! 🔹
