@@ -9,7 +9,7 @@ The writeups in this repository are categorised based on the nature of the chall
 
 ### 🔥 **Pentesting**
 - [Agent Sudo](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)
---[Challange Link](https://tryhackme.com/r/room/agentsudoctf)
+-- [Challange Link](https://tryhackme.com/r/room/agentsudoctf)
 - [Anonymous](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf)
 -- [Challange Link](https://tryhackme.com/r/room/anonymous)
 - [Basic Pentesting](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf)
