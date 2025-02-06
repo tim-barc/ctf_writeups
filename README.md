@@ -139,7 +139,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Yellow RAT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf)
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/)
 - [GrabThePhiser](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_grab_the_phisher_lab.pdf)
- - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
+  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
 - [Red Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_red_stealer_lab.pdf)
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/)
 
