@@ -49,9 +49,9 @@ The writeups in this repository are categorised based on the nature of the chall
 
 ### 🛡 **IDS/IPS**
 - [Snort Challenge](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)
--- [Challange Link](https://tryhackme.com/r/room/snortchallenges2)
+  - [Challange Link](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf)
--- [Challange Link](https://tryhackme.com/jr/snortchallenges2)
+  - [Challange Link](https://tryhackme.com/jr/snortchallenges2)
 
 ### 📡 **Network Forensics/Packet Analysis**
 - [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
