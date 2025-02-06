@@ -40,7 +40,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Carnage](https://github.com/tim-barc/ctf_writeups/blob/main/carnage_writeup.pdf)
 - [TShark](https://github.com/tim-barc/ctf_writeups/blob/main/tshark.pdf)
 - [TShark Challenge 1: Teamwork](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_1_teamwork.pdf)
-- [Tshark Challenge II: Directory](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_2_directory.pdf
+- [Tshark Challenge II: Directory](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_2_directory.pdf)
 
 ### 📊 **SIEM (ELK, Splunk, etc.)**
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
