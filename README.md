@@ -9,7 +9,7 @@ The writeups in this repository are categorised based on the nature of the chall
 
 ### 🔥 **Pentesting**
 - [Agent Sudo](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)
- - test
+-- test
 - [Anonymous](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf)
 - [Basic Pentesting](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf)
 - [Blogger1](https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf)
