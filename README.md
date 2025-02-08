@@ -253,6 +253,8 @@ Some of the tools frequently used in these writeups include:
 - [Oledump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
 - [IDA Free](https://hex-rays.com/ida-free)
 - [Radare2](https://rada.re/n/)
+- [Cutter](https://cutter.re/)
+- [Ghidra](https://ghidra-sre.org/)
 
 ### **Forensics and Incident Response**
 - [Autopsy](https://www.autopsy.com/)
