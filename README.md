@@ -192,6 +192,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://blueteamlabs.online/home/challenge/reverse-engineering-a-classic-injection-9791a9b784)
 - [PowerShell Analysis - Keylogger](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_powershell_analysis_keylogger.pdf)
   - [Challange Link](https://blueteamlabs.online/home/challenge/powershell-analysis-keylogger-9f4ab9a11c)
+- [Injection Series Part 3](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_injection_series_part_3.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-3-3f316e3782)
 
 ### 🔄 **Reverse Engineering**
 - [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
