@@ -128,6 +128,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/)
 - [Memory Analayis - Ransomware](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_memory_analysis_ransomware.pdf)
   - [Challange Link](https://blueteamlabs.online/home/challenge/memory-analysis-ransomware-7da6c9244d)
+- [Tardigrade](https://github.com/tim-barc/ctf_writeups/blob/main/tardigrade.pdf)
+  - [Challenge Link](https://tryhackme.com/room/tardigrade)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
