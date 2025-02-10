@@ -198,6 +198,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-3-3f316e3782)
 - [Injection Series Part 4](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_ijection_series_part_4.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-4-8b3aaae8ca)
+- [Reverse Engineering - Another Injection](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_another_injection.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/reverse-engineering-another-injection-72001745c9)
 
 ### 🔄 **Reverse Engineering**
 - [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
