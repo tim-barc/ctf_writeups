@@ -202,6 +202,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-4-8b3aaae8ca)
 - [Reverse Engineering - Another Injection](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_another_injection.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/challenge/reverse-engineering-another-injection-72001745c9)
+- [Malware Analysis - Ransowmare Script](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_malware_analysis_ransomware_script.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/malware-analysis-ransomware-script-4263fe6ecf)
 
 ### 🔄 **Reverse Engineering**
 - [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
