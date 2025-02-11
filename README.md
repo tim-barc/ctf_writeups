@@ -172,6 +172,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://app.letsdefend.io/challenge/brute-force-attacks)
 - [OpenWire Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_openwire_lab.pdf)
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/)
+- [Network Analysis - Web Shell](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_web_shell.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b)
 
 ### 🦠 **Malware Analysis**
 - [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
