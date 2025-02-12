@@ -206,6 +206,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/challenge/malware-analysis-ransomware-script-4263fe6ecf)
 - [Nonyx](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_nonyx.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)
+- [Anakus](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)
 
 ### 🔄 **Reverse Engineering**
 - [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
