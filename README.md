@@ -72,6 +72,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://tryhackme.com/r/room/tsharkchallengestwo)
 - [Shiba Insider](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_shiba_insider.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/challenge/shiba-insider-5b48123711)
+- [Piggy](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_piggy.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)
 
 ### 📊 **SIEM (ELK, Splunk, etc.)**
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
