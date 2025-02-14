@@ -178,6 +178,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/)
 - [Network Analysis - Web Shell](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_web_shell.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b)
+- [Deep Blue](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)
 
 ### 🦠 **Malware Analysis**
 - [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
