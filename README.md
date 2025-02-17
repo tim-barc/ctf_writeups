@@ -138,6 +138,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://tryhackme.com/room/revilcorp)
 - [Forensics](https://github.com/tim-barc/ctf_writeups/blob/main/forensics.pdf)
   - [Challenge Link](https://tryhackme.com/room/forensics)
+- [Dead End?](https://github.com/tim-barc/ctf_writeups/blob/main/dead_end.pdf)
+  - [Challenge Link](https://tryhackme.com/room/deadend)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
