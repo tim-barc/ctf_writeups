@@ -288,6 +288,7 @@ Some of the tools frequently used in these writeups include:
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
 - [Volatility3](https://github.com/volatilityfoundation/volatility3)
+- [FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)
 
 ---
 
