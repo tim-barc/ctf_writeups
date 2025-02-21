@@ -144,6 +144,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://tryhackme.com/room/deadend)
 - [Insider Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_insider_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/insider/)
+- [Seized Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_seized_lab.pdf)
+  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/seized/)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
