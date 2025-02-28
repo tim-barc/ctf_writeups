@@ -156,6 +156,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/)
 - [AfricanFalls Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_africanfalls_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/africanfalls/)
+- [Injector Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_injector_lab.pdf)
+  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/injector/)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
