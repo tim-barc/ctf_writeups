@@ -160,6 +160,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/injector/)
 - [NintendoHunt Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_nintendohunt_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/nintendohunt/)
+- [DeepDive Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_deepdive_lab.pdf)
+  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/deepdive/)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
