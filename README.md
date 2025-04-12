@@ -164,6 +164,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/deepdive/)
 - [CorporateSecrets Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_corporatesecrets_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/corporatesecrets/)
+- [Bruteforce](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_bruteforce.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2)
 
 ### 📧 **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
