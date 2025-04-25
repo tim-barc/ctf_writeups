@@ -76,6 +76,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)
 - [l337 S4uc3 Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_l337_S4uc3_Lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/)
+- [Network Analysis - Ransomware](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_ransomware.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec)
 
 ### 📊 **SIEM (ELK, Splunk, etc.)**
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
