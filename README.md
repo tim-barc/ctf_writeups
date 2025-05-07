@@ -96,6 +96,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://tryhackme.com/r/room/newhireoldartifacts)
 - [Boogeyman 3](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/boogeyman3)
+- [Middle Mayhem](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_middle_mayhem.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)
 
 ### 🕵️ **Digital Forensics**
 - [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
