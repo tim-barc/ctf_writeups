@@ -102,6 +102,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)
 - [SOC Alpha 2](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_2.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)
+- [SOC Alpha 3](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_3.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)
 
 ### 🕵️ **Digital Forensics**
 - [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
