@@ -184,6 +184,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
 - [Snapped Phish-ing Line](https://github.com/tim-barc/ctf_writeups/blob/main/snapped_phishing_line_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/snappedphishingline)
+- [Phishing Analysis](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishing_analysis.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce)
 
 ### 🕵️‍♂️ **Cyber Threat Intelligence (CTI)**
 - [Trooper](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)
