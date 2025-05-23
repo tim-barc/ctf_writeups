@@ -106,6 +106,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)
 - [Defaced](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/defaced-593f17897e)
+- [Peak](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)
+  - [Challenge Link](https://blueteamlabs.online/home/investigation/peak-98765b84cb)
 
 ### 🕵️ **Digital Forensics**
 - [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
