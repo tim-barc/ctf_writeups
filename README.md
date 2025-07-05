@@ -318,6 +318,11 @@ Some of the tools frequently used in these writeups include:
 ### **Cyber Threat Intelligence (CTI)**
 - [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
 - [Mitre ATT&CK Matrix](https://attack.mitre.org/)
+- [VirusTotal](https://www.virustotal.com/gui/home/upload)
+- [URLHaus](https://urlhaus.abuse.ch/browse/)
+- [IPInfo](https://ipinfo.io/)
+- [Cisco Talos](https://talosintelligence.com/)
+- [Shodan](https://www.shodan.io/)
 
 ### **Malware Analysis**
 - [pestudio](https://www.winitor.com/download)
@@ -331,12 +336,17 @@ Some of the tools frequently used in these writeups include:
 - [Radare2](https://rada.re/n/)
 - [Cutter](https://cutter.re/)
 - [Ghidra](https://ghidra-sre.org/)
+- [AnyRun](https://any.run/)
+- [Hybrid Analysis](https://hybrid-analysis.com/)
+- [Joes Sandbox](https://www.joesandbox.com/#windows)
 
 ### **Forensics and Incident Response**
 - [Autopsy](https://www.autopsy.com/)
 - [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
 - [Volatility3](https://github.com/volatilityfoundation/volatility3)
 - [FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)
+- [EZ Tools](https://www.sans.org/tools/ez-tools/)
+- [Browsing History View](https://www.nirsoft.net/utils/browsing_history_view.html)
 
 ---
 
