@@ -204,6 +204,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
 - [Red Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_red_stealer_lab.pdf)
   - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/)
+- [PhishStrike Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_phishstrike.pdf)
+  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/)
 
 ### 📜 **Log Analysis and Network Forensics**
 - [Boogeyman 1](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)
