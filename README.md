@@ -78,6 +78,8 @@ The writeups in this repository are categorised based on the nature of the chall
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/)
 - [Network Analysis - Ransomware](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_ransomware.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec)
+- [XMLRat Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf)
+  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)
 
 ### 📊 **SIEM (ELK, Splunk, etc.)**
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
