@@ -327,6 +327,7 @@ Some of the tools frequently used in these writeups include:
 - [IPInfo](https://ipinfo.io/)
 - [Cisco Talos](https://talosintelligence.com/)
 - [Shodan](https://www.shodan.io/)
+- [Kasperky Threat Intelligence Portal](https://opentip.kaspersky.com/)
 
 ### **Malware Analysis**
 - [pestudio](https://www.winitor.com/download)
