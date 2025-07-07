@@ -4,10 +4,10 @@ Welcome to my CTF Writeups repository! Here, I document the solutions and method
 ## Introduction
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
 
-## 📂 Writeups
+## Writeups
 The writeups in this repository are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used.
 
-### 🔥 **Pentesting**
+### **Pentesting**
 - [Agent Sudo](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/agentsudoctf)
 - [Anonymous](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf)
@@ -47,13 +47,13 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Silver Platter](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf)
   - [Challenge Link](https://tryhackme.com/r/room/silverplatter)
 
-### 🛡 **IDS/IPS**
+### **IDS/IPS**
 - [Snort Challenge](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)
   - [Challange Link](https://tryhackme.com/r/room/snortchallenges2)
 - [Snort Challenge: Live Attacks](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf)
   - [Challange Link](https://tryhackme.com/jr/snortchallenges2)
 
-### 📡 **Network Forensics/Packet Analysis**
+### **Network Forensics/Packet Analysis**
 - [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
   - [Challange Link](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://github.com/tim-barc/ctf_writeups/blob/main/masterminds.pdf)
@@ -81,7 +81,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [XMLRat Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)
 
-### 📊 **SIEM (ELK, Splunk, etc.)**
+### **SIEM (ELK, Splunk, etc.)**
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
   - [Challange Link](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf)
@@ -111,7 +111,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Peak](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/peak-98765b84cb)
 
-### 🕵️ **Digital Forensics**
+### **Digital Forensics**
 - [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
   - [Challange Link](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://github.com/tim-barc/ctf_writeups/blob/main/retracted.pdf)
@@ -185,7 +185,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Silent Breach](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_silent_breach_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/)
 
-### 📧 **Email Analysis**
+### **Email Analysis**
 - [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
 - [Snapped Phish-ing Line](https://github.com/tim-barc/ctf_writeups/blob/main/snapped_phishing_line_writeup.pdf)
@@ -197,7 +197,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Phishy v1](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishyv1.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)
 
-### 🕵️‍♂️ **Cyber Threat Intelligence (CTI)**
+### **Cyber Threat Intelligence (CTI)**
 - [Trooper](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)
   - [Challange Link](https://tryhackme.com/r/room/trooper)
 - [Yellow RAT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf)
@@ -211,7 +211,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Tusk Infostealer Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tusk_infostealer_lab.pdf)
   - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/)
 
-### 📜 **Log Analysis and Network Forensics**
+### **Log Analysis and Network Forensics**
 - [Boogeyman 1](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/boogeyman1)
 - [PacketDetective](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_pakcet_defective_lab.pdf)
@@ -241,7 +241,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Deep Blue](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)
 
-### 🦠 **Malware Analysis**
+### **Malware Analysis**
 - [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/malbuster)
 - [Mr. Phisher](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)
@@ -275,7 +275,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Anakus](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)
   - [Challenge Link](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)
 
-### 🔄 **Reverse Engineering**
+### **Reverse Engineering**
 - [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
   - [Challange Link](https://tryhackme.com/r/room/reverselfiles)
 - [DLL Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf)
@@ -355,12 +355,12 @@ Some of the tools frequently used in these writeups include:
 
 ---
 
-## 📢 **Contributions & Feedback**
+## **Contributions & Feedback**
 - Feel free to fork this repository and contribute additional writeups.
 - If you find any errors or improvements, please submit an issue.
 - Connect with me for discussions or feedback.
 
-## 🏆 **Acknowledgments**
+## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
 ---
