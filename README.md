@@ -124,19 +124,18 @@ The writeups in this repository are categorised based on the nature of the chall
 | Phishing Analysis 2           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishing_analysis_2.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) |
 | Phishy v1                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishyv1.pdf)         | [BTLO](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)     |
 
-
-- [Greenholt Phish](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/phishingemails5fgjlzxc)
-- [Snapped Phish-ing Line](https://github.com/tim-barc/ctf_writeups/blob/main/snapped_phishing_line_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/snappedphishingline)
-- [Phishing Analysis](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishing_analysis.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce)
-- [Phishing Analysis 2](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishing_analysis_2.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8)
-- [Phishy v1](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishyv1.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)
-
 ### **Cyber Threat Intelligence (CTI)**
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Trooper                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)       | [TryHackMe](https://tryhackme.com/r/room/trooper)                               |
+| Yellow RAT                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) |
+| GrabThePhiser                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_grab_the_phisher_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) |
+| Red Stealer                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_red_stealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/) |
+| PhishStrike Lab               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_phishstrike.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) |
+| Tusk Infostealer Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tusk_infostealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) |
+| Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     |
+
+
 - [Trooper](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)
   - [Challange Link](https://tryhackme.com/r/room/trooper)
 - [Yellow RAT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf)
