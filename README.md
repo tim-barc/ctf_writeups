@@ -8,8 +8,6 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 The writeups in this repository are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used.
 
 ### **Pentesting**
-
-
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             |
@@ -31,46 +29,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Wgel CTF | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf) | [TryHackMe](https://tryhackme.com/r/room/wgelctf) | 
 | Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](ttps://tryhackme.com/r/room/bsidesgtdav) |
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
-
-
-- [Agent Sudo](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/agentsudoctf)
-- [Anonymous](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/anonymous)
-- [Basic Pentesting](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/basicpentestingjt)
-- [Blogger1](https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/blogger-1,675/#top)
-- [Bounty Hacker](https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/cowboyhacker)
-- [Colddbox THM](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/colddboxeasy)
-- [Colddbox Vulnhub](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/colddbox-easy,586/)
-- [Easy peasy](https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/easypeasyctf)
-- [IDE](https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/ide)
-- [Lazy Admin](https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/lazysysadmin-1,205/)
-- [Photographer](https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/photographer-1,519/)
-- [Mr Robot](https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/mr-robot-1,151/)
-- [Pickle Rick](https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
-- [Raven 1](https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf)
-  - [Challange Link](https://www.vulnhub.com/entry/raven-1,256/)
-- [Toolsrus](https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/toolsrus)
-- [Lookup](https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/lookup)
-- [Wgel CTF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/wgelctf)
-- [Dav](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/bsidesgtdav)
-- [Silver Platter](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf)
-  - [Challenge Link](https://tryhackme.com/r/room/silverplatter)
 
 ### **IDS/IPS**
 - [Snort Challenge](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)
