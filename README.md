@@ -180,7 +180,7 @@ The writeups in this repository are categorised based on the nature of the chall
 
 ### **Malware Analysis**
 | Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------| ----------|----------|
+|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------| ------------|----------|
 | MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            | 🟡 Medium | ⭐⭐⭐⭐ |
 | Mr. Phisher                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/mrphisher)                            | 🟢 Easy | ⭐ |
 | Dunkle Materie                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dunkle_materie_writeup.pdf)      | [TryHackMe](https://tryhackme.com/r/room/dunklematerieptxc9)                  | 🟡 Medium | ⭐⭐⭐⭐ |
@@ -200,7 +200,7 @@ The writeups in this repository are categorised based on the nature of the chall
 
 ### **Reverse Engineering**
 | Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------|----------|
+|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐ |
 | DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟡 Medium  | ⭐⭐⭐⭐⭐ |
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐ |
