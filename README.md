@@ -9,6 +9,20 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 ## Writeups
 The writeups in this repository are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used.
 
+## Table of Contents
+
+- [Pentesting](#pentesting)
+- [IDS/IPS](#idsips)
+- [Network Forensics / Packet Analysis](#network-forensics--packet-analysis)
+- [SIEM (ELK, Splunk, etc.)](#siem-elk-splunk-etc)
+- [Digital Forensics](#digital-forensics)
+- [Email Analysis](#email-analysis)
+- [Cyber Threat Intelligence (CTI)](#cyber-threat-intelligence-cti)
+- [Log Analysis & Network Forensics](#log-analysis--network-forensics)
+- [Malware Analysis](#malware-analysis)
+- [Reverse Engineering](#reverse-engineering)
+
+
 ### **Pentesting**
 ![Total Pentesting Writeups](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
