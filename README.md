@@ -53,6 +53,7 @@ The writeups in this repository are categorised based on the nature of the chall
 | Wgel CTF | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf) | [TryHackMe](https://tryhackme.com/r/room/wgelctf) | 
 | Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](https://tryhackme.com/r/room/bsidesgtdav) |
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
+| Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) |
 
 ### **IDS/IPS**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
