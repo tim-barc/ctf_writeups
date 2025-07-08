@@ -71,37 +71,50 @@ The writeups in this repository are categorised based on the nature of the chall
 | Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       |
 | Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          |
 
-
-- [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/itsybitsy)
-- [Investigating with Splunk](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/investigatingwithsplunk)
-- [Benign](https://github.com/tim-barc/ctf_writeups/blob/main/benign.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/benign)
-- [SlingShot](https://github.com/tim-barc/ctf_writeups/blob/main/slingshot.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/slingshot)
-- [Conti](https://github.com/tim-barc/ctf_writeups/blob/main/conti.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/contiransomwarehgh)
-- [PS Eclipse](https://github.com/tim-barc/ctf_writeups/blob/main/pseclipse.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/posheclipse)
-- [New Hire Old Artifacts](https://github.com/tim-barc/ctf_writeups/blob/main/new_hire_old_artifacts.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/newhireoldartifacts)
-- [Boogeyman 3](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/boogeyman3)
-- [Middle Mayhem](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_middle_mayhem.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)
-- [SOC Alpha 1](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_1.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)
-- [SOC Alpha 2](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_2.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)
-- [SOC Alpha 3](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_3.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)
-- [Defaced](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/defaced-593f17897e)
-- [Peak](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/peak-98765b84cb)
-
 ### **Digital Forensics**
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         |
+| Retracted                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/retracted.pdf)             | [TryHackMe](https://tryhackme.com/r/room/retracted)                             |
+| Unattended                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/unattended.pdf)            | [TryHackMe](https://tryhackme.com/r/room/unattended)                            |
+| Disgruntled                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/disgruntled.pdf)           | [TryHackMe](https://tryhackme.com/r/room/disgruntled)                           |
+| Secret Recipe                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/secret_recipe.pdf)         | [TryHackMe](https://tryhackme.com/r/room/registry4n6)                           |
+| Critical                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/critical.pdf)              | [TryHackMe](https://tryhackme.com/r/room/critical)                              |
+| Tempest                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/temptest_writeup.pdf)      | [TryHackMe](https://tryhackme.com/r/room/tempestincident)                       |
+| Boogeyman 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman2_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman2)                            |
+| Ramnit                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_ramnit_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/ramnit/) |
+| Reveal                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_reveal_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/reveal/) |
+| FakeGPT                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_fakegpt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/) |
+| Brave                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_brave_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/brave/) |
+| Redline                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_redline_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/redline/) |
+| Memory Analysis               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_memory_analysis.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/memory-analysis)             |
+| Lockbit                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lockbit.pdf)               | [LetsDefend](https://app.letsdefend.io/challenge/lockbit)                      |
+| WinRar 0-Day                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/win_rar_0_day.pdf)         | [LetsDefend](https://app.letsdefend.io/challenge/winrar-0-day)                 |
+| BlackEnergy Lab               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_black_energy_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/blackenergy/) |
+| Memory Analysis - Ransomware | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_memory_analysis_ransomware.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/memory-analysis-ransomware-7da6c9244d) |
+| Tardigrade                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/tardigrade.pdf)            | [TryHackMe](https://tryhackme.com/room/tardigrade)                             |
+| Sysinternals                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_sysinternals_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/sysinternals/) |
+| REvil Corp                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/revil_corp.pdf)            | [TryHackMe](https://tryhackme.com/room/revilcorp)                              |
+| Forensics                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/forensics.pdf)             | [TryHackMe](https://tryhackme.com/room/forensics)                              |
+| Dead End?                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dead_end.pdf)              | [TryHackMe](https://tryhackme.com/room/deadend)                                |
+| Insider Lab                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_insider_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/insider/) |
+| Seized Lab                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_seized_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/seized/)  |
+| Browser Forensics - Cryptominer | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_browser_forensics_cryptominer.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/browser-forensics-cryptominer-aa00f593cb) |
+| Kraken Keylogger Lab         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_krakenkeylogger_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/krakenkeylogger/) |
+| HireMe Lab                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_hireme_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hireme/)  |
+| DumpMe Lab                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_dumpme_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/dumpme/)  |
+| AfricanFalls Lab             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_africanfalls_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/africanfalls/) |
+| Injector Lab                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_injector_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/injector/) |
+| NintendoHunt Lab             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_nintendohunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nintendohunt/) |
+| DeepDive Lab                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_deepdive_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/deepdive/) |
+| CorporateSecrets Lab         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_corporatesecrets_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/corporatesecrets/) |
+| Bruteforce                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_bruteforce.pdf)        | [BTLO](https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2)       |
+| Silent Breach                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_silent_breach_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) |
+| Amadey Lab                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_amadey_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/amadey/)   |
+| The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) |
+| Eli Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_denfenders_eli_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/eli/)      |
+
+
 - [Monday Monitor](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)
   - [Challange Link](https://tryhackme.com/r/room/mondaymonitor)
 - [Retracted](https://github.com/tim-barc/ctf_writeups/blob/main/retracted.pdf)
