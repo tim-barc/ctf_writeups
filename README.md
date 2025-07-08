@@ -135,23 +135,25 @@ The writeups in this repository are categorised based on the nature of the chall
 | Tusk Infostealer Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tusk_infostealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) |
 | Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     |
 
-
-- [Trooper](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/trooper)
-- [Yellow RAT](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_yellow_rat_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/)
-- [GrabThePhiser](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_grab_the_phisher_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
-- [Red Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_red_stealer_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/)
-- [PhishStrike Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_phishstrike.pdf)
-  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/)
-- [Tusk Infostealer Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tusk_infostealer_lab.pdf)
-  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/)
-- [Oski Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_oski_lab.pdf)
-  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)
-
 ### **Log Analysis and Network Forensics**
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Boogeyman 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman1)                            |
+| PacketDetective               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_pakcet_defective_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/) |
+| DanaBot                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_dana_bot.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)  |
+| Web Investigation             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_web_investigation_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/) |
+| WebStrike                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_webstrike_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/) |
+| PoisonedCredentials           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_poisoned_credentials_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/) |
+| TomCat Takeover               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tomcat_takeover_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/) |
+| PsExec Hunt                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_psexec_hunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/) |
+| Shellshock Attack             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_shellshock.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/shellshock-attack)             |
+| HTTP Basic Auth               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_http_basic_auth.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/http-basic-auth)               |
+| Brute Force Attack            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_brute_force_attack.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/brute-force-attacks)           |
+| OpenWire Lab                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_openwire_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) |
+| Network Analysis - Web Shell  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_web_shell.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b) |
+| Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     |
+
+
 - [Boogeyman 1](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/boogeyman1)
 - [PacketDetective](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_pakcet_defective_lab.pdf)
