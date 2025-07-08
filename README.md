@@ -153,37 +153,27 @@ The writeups in this repository are categorised based on the nature of the chall
 | Network Analysis - Web Shell  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_web_shell.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b) |
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     |
 
-
-- [Boogeyman 1](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/boogeyman1)
-- [PacketDetective](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_pakcet_defective_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/)
-- [DanaBot](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_dana_bot.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)
-- [Web Investigation](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_web_investigation_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/web-investigation/)
-- [WebStrike](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_webstrike_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/webstrike/)
-- [PoisonedCredentials](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_poisoned_credentials_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/poisonedcredentials/)
-- [TomCat Takeover](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tomcat_takeover_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/tomcat-takeover/)
-- [PsExec Hunt](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_psexec_hunt_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/psexec-hunt/)
-- [Shellshock Attack](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_shellshock.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/shellshock-attack)
-- [HTTP Basic Auth](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_http_basic_auth.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/http-basic-auth)
-- [Brute Force Attack](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_brute_force_attack.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/brute-force-attacks)
-- [OpenWire Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_openwire_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/)
-- [Network Analysis - Web Shell](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_web_shell.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b)
-- [Deep Blue](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)
-
 ### **Malware Analysis**
+| Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 |
+|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            |
+| Mr. Phisher                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/mrphisher)                            |
+| Dunkle Materie                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dunkle_materie_writeup.pdf)      | [TryHackMe](https://tryhackme.com/r/room/dunklematerieptxc9)                  |
+| Maldoc101                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_maldoc_101_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/) |
+| Downloader                                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_downloader.pdf)      | [LetsDefend](https://app.letsdefend.io/challenge/downloader)                  |
+| Malicious Doc                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_malicious_doc.pdf)   | [LetsDefend](https://app.letsdefend.io/challenge/malicious-doic)              |
+| PowerShell Script                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_powershell_script.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/powershell-script)         |
+| Suspicious USB Stick                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_suspicious_usb_stick.pdf)   | [BTLO](https://blueteamlabs.online/home/challenge/suspicious-usb-stick-2f18a6b124) |
+| Reverse Engineering - A Classic Injection | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_a_classic_injection.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/reverse-engineering-a-classic-injection-9791a9b784) |
+| PowerShell Analysis - Keylogger           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_powershell_analysis_keylogger.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/powershell-analysis-keylogger-9f4ab9a11c) |
+| Injection Series Part 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_injection_series_part_3.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/injection-series-part-3-3f316e3782) |
+| Injection Series Part 4                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_ijection_series_part_4.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/injection-series-part-4-8b3aaae8ca) |
+| Reverse Engineering - Another Injection   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_another_injection.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/reverse-engineering-another-injection-72001745c9) |
+| Malware Analysis - Ransomware Script      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_malware_analysis_ransomware_script.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/malware-analysis-ransomware-script-4263fe6ecf) |
+| Nonyx                                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_nonyx.pdf)                  | [BTLO](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)       |
+| Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      |
+
+
 - [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
   - [Challange Link](https://tryhackme.com/r/room/malbuster)
 - [Mr. Phisher](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)
