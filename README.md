@@ -173,47 +173,13 @@ The writeups in this repository are categorised based on the nature of the chall
 | Nonyx                                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_nonyx.pdf)                  | [BTLO](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)       |
 | Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      |
 
-
-- [MalBuster](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/malbuster)
-- [Mr. Phisher](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/mrphisher)
-- [Dunkle Materie](https://github.com/tim-barc/ctf_writeups/blob/main/dunkle_materie_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/dunklematerieptxc9)
-- [Maldoc101](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_maldoc_101_lab.pdf)
-  - [Challange Link](https://cyberdefenders.org/blueteam-ctf-challenges/maldoc101/)
-- [Downloader](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_downloader.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/downloader)
-- [Malicious Doc](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_malicious_doc.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/malicious-doic)
-- [PowerShell Script](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_powershell_script.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/powershell-script)
-- [Suspicious USB Stick](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_suspicious_usb_stick.pdf)
-  - [Challange Link](https://blueteamlabs.online/home/challenge/suspicious-usb-stick-2f18a6b124)
-- [Reverse Engineering - A Classic Injection](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_a_classic_injection.pdf)
-  - [Challange Link](https://blueteamlabs.online/home/challenge/reverse-engineering-a-classic-injection-9791a9b784)
-- [PowerShell Analysis - Keylogger](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_powershell_analysis_keylogger.pdf)
-  - [Challange Link](https://blueteamlabs.online/home/challenge/powershell-analysis-keylogger-9f4ab9a11c)
-- [Injection Series Part 3](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_injection_series_part_3.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-3-3f316e3782)
-- [Injection Series Part 4](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_ijection_series_part_4.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/injection-series-part-4-8b3aaae8ca)
-- [Reverse Engineering - Another Injection](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_reverse_engineering_another_injection.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/reverse-engineering-another-injection-72001745c9)
-- [Malware Analysis - Ransowmare Script](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_malware_analysis_ransomware_script.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/malware-analysis-ransomware-script-4263fe6ecf)
-- [Nonyx](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_nonyx.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)
-- [Anakus](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)
-
 ### **Reverse Engineering**
-- [Reversing ELF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/reverselfiles)
-- [DLL Stealer](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf)
-  - [Challange Link](https://app.letsdefend.io/challenge/dll-stealer)
-- [Beginner Crackme](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)
-  - [Challange Link](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)
+| Challenge            | Writeup                                                                              | Challenge Link                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         |
+| DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  |
+| Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          |
+
 
 ---
 
