@@ -199,9 +199,9 @@ The writeups in this repository are categorised based on the nature of the chall
 | Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      |
 
 ### **Reverse Engineering**
-| Challenge            | Writeup                                                                              | Challenge Link                                                                 |
-|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         |
+| Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
+|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------|
+| Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐☆ |
 | DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  |
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          |
 
