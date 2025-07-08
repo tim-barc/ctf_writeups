@@ -37,6 +37,23 @@ The writeups in this repository are categorised based on the nature of the chall
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) |
 
 ### **Network Forensics/Packet Analysis**
+| Challenge                             | Writeup                                                                                   | Challenge Link                                                                 |
+|---------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Zeek Exercises                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)             | [TryHackMe](https://tryhackme.com/r/room/zeekbroexercises)                      |
+| Masterminds                           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/masterminds.pdf)                | [TryHackMe](https://tryhackme.com/r/room/mastermindsxlq)                        |
+| Warzone 1                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/warzone1.pdf)                   | [TryHackMe](https://tryhackme.com/r/room/warzoneone)                            |
+| Warzone 2                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/warzone_2_challenge.pdf)        | [TryHackMe](https://tryhackme.com/r/room/warzonetwo)                            |
+| Carnage                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/carnage_writeup.pdf)            | [TryHackMe](https://tryhackme.com/r/room/c2carnage)                             |
+| TShark                                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/tshark.pdf)                     | [TryHackMe](https://tryhackme.com/r/room/tshark)                                |
+| TShark Challenge 1: Teamwork          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_1_teamwork.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengesone)                   |
+| Tshark Challenge II: Directory        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_2_directory.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengestwo)                  |
+| Shiba Insider                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_shiba_insider.pdf)         | [BTLO](https://blueteamlabs.online/home/challenge/shiba-insider-5b48123711)     |
+| Piggy                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_piggy.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)          |
+| l337 S4uc3 Lab                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_l337_S4uc3_Lab.pdf)| [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) |
+| Network Analysis - Ransomware        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_ransomware.pdf)| [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) |
+| XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    |
+
+
 - [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
   - [Challange Link](https://tryhackme.com/r/room/zeekbroexercises)
 - [Masterminds](https://github.com/tim-barc/ctf_writeups/blob/main/masterminds.pdf)
