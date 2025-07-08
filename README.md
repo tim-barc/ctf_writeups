@@ -274,5 +274,3 @@ Some of the tools frequently used in these writeups include:
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
 ---
-
-🔹 Happy Hacking! 🔹
