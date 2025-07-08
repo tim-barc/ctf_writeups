@@ -27,7 +27,7 @@ The writeups in this repository are categorised based on the nature of the chall
 | Toolsrus | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/toolsrus) | 
 | Lookup | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf) | [TryHackMe](https://tryhackme.com/r/room/lookup) |
 | Wgel CTF | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf) | [TryHackMe](https://tryhackme.com/r/room/wgelctf) | 
-| Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](ttps://tryhackme.com/r/room/bsidesgtdav) |
+| Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](https://tryhackme.com/r/room/bsidesgtdav) |
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
 
 ### **IDS/IPS**
