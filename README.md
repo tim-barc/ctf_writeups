@@ -1,6 +1,8 @@
 # CTF Writeups
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 
+![CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-164-blue?style=flat)
+
 ## Introduction
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
 
