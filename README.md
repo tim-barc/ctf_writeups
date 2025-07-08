@@ -1,7 +1,7 @@
 # CTF Writeups
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 
-![CTF Writeups](https://img.shields.io/badge/CTF%20Writeups-164-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-164-blue?style=flat)
 
 ## Introduction
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
@@ -10,6 +10,7 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 The writeups in this repository are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used.
 
 ### **Pentesting**
+![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             |
