@@ -1,3 +1,15 @@
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-164-blue?style=flat)
+![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-14-blue?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-39-blue?style=flat)
+![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
+![CTI](https://img.shields.io/badge/CTI-7-blue?style=flat)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-14-blue?style=flat)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
+
 # CTF Writeups
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 
@@ -20,12 +32,6 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Log Analysis and Network Forensics](#log-analysis-and-network-forensics)
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
-
-## Profiles
-- [TryHackMe](https://tryhackme.com/p/Timzoes)
-- [BlueTeamLabs](https://blueteamlabs.online/profile/yourusername)
-- [CyberDefenders](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
-
 
 ### **Pentesting**
 ![Total Pentesting Writeups](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
@@ -290,5 +296,10 @@ Some of the tools frequently used in these writeups include:
 
 ## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
+
+## Personal Platform Profiles
+- [TryHackMe](https://tryhackme.com/p/Timzoes)
+- [BlueTeamLabs](https://blueteamlabs.online/profile/yourusername)
+- [CyberDefenders](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
 
 ---
