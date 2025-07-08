@@ -32,7 +32,6 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Reverse Engineering](#reverse-engineering)
 
 ### **Pentesting**
-![Total Pentesting Writeups](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             |
@@ -56,14 +55,12 @@ The writeups in this repository are categorised based on the nature of the chall
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
 
 ### **IDS/IPS**
-![Total IDS/IPS Writeups](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       |
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) |
 
 ### **Network Forensics/Packet Analysis**
-![Total Network Forensics Writeups](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
 | Challenge                             | Writeup                                                                                   | Challenge Link                                                                 |
 |---------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Zeek Exercises                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)             | [TryHackMe](https://tryhackme.com/r/room/zeekbroexercises)                      |
@@ -81,7 +78,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    |
 
 ### **SIEM (ELK, Splunk, etc.)**
-![Total SIEM Writeups](https://img.shields.io/badge/SIEM-14-blue?style=flat)
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             |
@@ -100,7 +96,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          |
 
 ### **Digital Forensics**
-![Total Digital Forensics Writeups](https://img.shields.io/badge/Digital%20Forensics-39-blue?style=flat)
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         |
@@ -145,7 +140,6 @@ The writeups in this repository are categorised based on the nature of the chall
 
 
 ### **Email Analysis**
-![Total Email Analysis Writeups](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Greenholt Phish               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/the_greenholt_phish_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/phishingemails5fgjlzxc)            |
@@ -155,7 +149,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Phishy v1                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_phishyv1.pdf)         | [BTLO](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)     |
 
 ### **Cyber Threat Intelligence (CTI)**
-![Total CTI Writeups](https://img.shields.io/badge/CTI-7-blue?style=flat)
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Trooper                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/trooper_writuep.pdf)       | [TryHackMe](https://tryhackme.com/r/room/trooper)                               |
@@ -167,7 +160,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     |
 
 ### **Log Analysis and Network Forensics**
-![Total Log Analysis Writeups](https://img.shields.io/badge/Log%20Analysis-14-blue?style=flat)
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Boogeyman 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman1_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman1)                            |
@@ -186,7 +178,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     |
 
 ### **Malware Analysis**
-![Total Malware Analysis Writeups](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 | Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 |
 |-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            |
@@ -207,7 +198,6 @@ The writeups in this repository are categorised based on the nature of the chall
 | Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      |
 
 ### **Reverse Engineering**
-![Total Reverse Engineering Writeups](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 | Challenge            | Writeup                                                                              | Challenge Link                                                                 |
 |---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         |
