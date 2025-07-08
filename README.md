@@ -21,6 +21,11 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
 
+## Profiles
+- [TryHackMe](https://tryhackme.com/p/Timzoes)
+- [BlueTeamLabs](https://blueteamlabs.online/profile/yourusername)
+- [CyberDefenders](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
+
 
 ### **Pentesting**
 ![Total Pentesting Writeups](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
