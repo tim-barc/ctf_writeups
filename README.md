@@ -179,8 +179,8 @@ The writeups in this repository are categorised based on the nature of the chall
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     |
 
 ### **Malware Analysis**
-| Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 |
-|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating |
+|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------| ----------|----------|
 | MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            |
 | Mr. Phisher                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/mrphisher_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/mrphisher)                            |
 | Dunkle Materie                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dunkle_materie_writeup.pdf)      | [TryHackMe](https://tryhackme.com/r/room/dunklematerieptxc9)                  |
@@ -202,16 +202,8 @@ The writeups in this repository are categorised based on the nature of the chall
 | Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
 |---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------|----------|
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐☆ |
-| DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟢 Easy  | ⭐⭐⭐⭐☆ |
-| Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐⭐⭐⭐☆ |
-
-### **IDS/IPS**
-| Challenge                     | Writeup                                                                                   | Challenge Link                                                   | Difficulty | Rating   |
-|------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------|----------|
-| Snort Challenge the Basics   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)  | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟢 Easy    | ⭐⭐⭐☆☆   |
-| Snort Challenge Live Attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf)| [TryHackMe](https://tryhackme.com/jr/snortchallenges2)           | 🟡 Medium  | ⭐⭐⭐⭐☆   |
-
-
+| DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟡 Medium  | ⭐⭐⭐⭐⭐ |
+| Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐☆☆☆☆ |
 
 ---
 
