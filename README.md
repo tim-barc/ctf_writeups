@@ -53,35 +53,25 @@ The writeups in this repository are categorised based on the nature of the chall
 | Network Analysis - Ransomware        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_ransomware.pdf)| [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) |
 | XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    |
 
-
-- [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/zeekbroexercises)
-- [Masterminds](https://github.com/tim-barc/ctf_writeups/blob/main/masterminds.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/mastermindsxlq)
-- [Warzone 1](https://tryhackme.com/r/room/warzoneonehttps://github.com/tim-barc/ctf_writeups/blob/main/warzone1.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/warzoneone)
-- [Warzone 2](https://github.com/tim-barc/ctf_writeups/blob/main/warzone_2_challenge.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/warzonetwo)
-- [Carnage](https://github.com/tim-barc/ctf_writeups/blob/main/carnage_writeup.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/c2carnage)
-- [TShark](https://github.com/tim-barc/ctf_writeups/blob/main/tshark.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/tshark)
-- [TShark Challenge 1: Teamwork](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_1_teamwork.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/tsharkchallengesone)
-- [Tshark Challenge II: Directory](https://github.com/tim-barc/ctf_writeups/blob/main/tshark_challenge_2_directory.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/tsharkchallengestwo)
-- [Shiba Insider](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_shiba_insider.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/shiba-insider-5b48123711)
-- [Piggy](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_piggy.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)
-- [l337 S4uc3 Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_l337_S4uc3_Lab.pdf)
-  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/)
-- [Network Analysis - Ransomware](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_network_analysis_ransomware.pdf)
-  - [Challenge Link](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec)
-- [XMLRat Lab](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_xlmrat_lab.pdf)
-  - [Challenge Link](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)
-
 ### **SIEM (ELK, Splunk, etc.)**
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 |
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             |
+| Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          |
+| Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                |
+| SlingShot                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/slingshot.pdf)             | [TryHackMe](https://tryhackme.com/r/room/slingshot)                             |
+| Conti                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/conti.pdf)                 | [TryHackMe](https://tryhackme.com/r/room/contiransomwarehgh)                    |
+| PS Eclipse                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/pseclipse.pdf)             | [TryHackMe](https://tryhackme.com/r/room/posheclipse)                           |
+| New Hire Old Artifacts        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/new_hire_old_artifacts.pdf)| [TryHackMe](https://tryhackme.com/r/room/newhireoldartifacts)                   |
+| Boogeyman 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman3)                             |
+| Middle Mayhem                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_middle_mayhem.pdf)    | [BTLO](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)  |
+| SOC Alpha 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_1.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)   |
+| SOC Alpha 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_2.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)   |
+| SOC Alpha 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_3.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)   |
+| Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       |
+| Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          |
+
+
 - [ItsyBitsy](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)
   - [Challange Link](https://tryhackme.com/r/room/itsybitsy)
 - [Investigating with Splunk](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf)
