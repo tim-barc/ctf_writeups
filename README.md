@@ -31,7 +31,7 @@ The writeups in this repository are categorised based on the nature of the chall
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
 
---
+----
 
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     |
