@@ -31,10 +31,10 @@ The writeups in this repository are categorised based on the nature of the chall
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
 
 ### **IDS/IPS**
-- [Snort Challenge](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf)
-  - [Challange Link](https://tryhackme.com/r/room/snortchallenges2)
-- [Snort Challenge: Live Attacks](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf)
-  - [Challange Link](https://tryhackme.com/jr/snortchallenges2)
+| Challenge        | Writeup                                                                                | Challenge Link                                                     |
+| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       |
+| Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) |
 
 ### **Network Forensics/Packet Analysis**
 - [Zeek Exercises](https://github.com/tim-barc/ctf_writeups/blob/main/zeek_exercises.pdf)
