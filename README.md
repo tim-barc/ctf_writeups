@@ -31,6 +31,7 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - [Log Analysis and Network Forensics](#log-analysis-and-network-forensics)
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
+- [Tools Used](#tools-used)
 
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
