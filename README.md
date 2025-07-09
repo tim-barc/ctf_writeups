@@ -81,20 +81,20 @@ The writeups in this repository are categorised based on the nature of the chall
 ### **SIEM (ELK, Splunk, etc.)**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
-| ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             |
-| Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          |
-| Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                |
-| SlingShot                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/slingshot.pdf)             | [TryHackMe](https://tryhackme.com/r/room/slingshot)                             |
-| Conti                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/conti.pdf)                 | [TryHackMe](https://tryhackme.com/r/room/contiransomwarehgh)                    |
-| PS Eclipse                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/pseclipse.pdf)             | [TryHackMe](https://tryhackme.com/r/room/posheclipse)                           |
-| New Hire Old Artifacts        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/new_hire_old_artifacts.pdf)| [TryHackMe](https://tryhackme.com/r/room/newhireoldartifacts)                   |
-| Boogeyman 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman3)                             |
-| Middle Mayhem                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_middle_mayhem.pdf)    | [BTLO](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)  |
-| SOC Alpha 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_1.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)   |
-| SOC Alpha 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_2.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)   |
-| SOC Alpha 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_3.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)   |
-| Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       |
-| Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          |
+| ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ |
+| Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                | 🟡 Medium | ⭐⭐⭐ |
+| SlingShot                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/slingshot.pdf)             | [TryHackMe](https://tryhackme.com/r/room/slingshot)                             | 🟢 Easy | ⭐⭐⭐⭐ |
+| Conti                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/conti.pdf)                 | [TryHackMe](https://tryhackme.com/r/room/contiransomwarehgh)                    | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| PS Eclipse                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/pseclipse.pdf)             | [TryHackMe](https://tryhackme.com/r/room/posheclipse)                           | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| New Hire Old Artifacts        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/new_hire_old_artifacts.pdf)| [TryHackMe](https://tryhackme.com/r/room/newhireoldartifacts)                   | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Boogeyman 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/boogeyman3_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman3)                             | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Middle Mayhem                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_middle_mayhem.pdf)    | [BTLO](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)  | 🟢 Easy | ⭐⭐⭐ |
+| SOC Alpha 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_1.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)   | 🟢 Easy | ⭐⭐⭐ |
+| SOC Alpha 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_2.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)   | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| SOC Alpha 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_soc_alpha_3.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)   | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       | 🟢 Easy | ⭐⭐ |
+| Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          | 🟡 Medium | ⭐⭐ |
 
 ### **Digital Forensics**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
