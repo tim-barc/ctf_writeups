@@ -244,6 +244,9 @@ Some of the tools frequently used in these writeups include:
 |                                            | Cisco Talos | https://talosintelligence.com/ |
 |                                            | Shodan | https://www.shodan.io/ |
 |                                            | Kasperky Threat Intelligence Portal | https://opentip.kaspersky.com/ |
+|                                            | Tria.ge | https://tria.ge/ |
+|                                             | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
+|                                            | Malware Bazaar | https://bazaar.abuse.ch/browse/ |
 | **Malware Analysis**                       | pestudio | https://www.winitor.com/download |
 |                                            | Detect It Easy | https://github.com/horsicq/Detect-It-Easy |
 |                                            | capa | https://github.com/mandiant/capa |
