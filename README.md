@@ -32,6 +32,9 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
 - [Tools Used](#tools-used)
+- [Contributions & Feedback](#contributions-&-feedback)
+- [Acknowledgments](#acknowledgments)
+- [Personal Platform Profiles](#personal-platform-profiles)
 
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
