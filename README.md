@@ -209,8 +209,6 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 | DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟡 Medium  | ⭐⭐⭐⭐⭐ |
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐ |
 
----
-
 ## Tools Used
 Some of the tools frequently used in these writeups include:
 
@@ -266,8 +264,6 @@ Some of the tools frequently used in these writeups include:
 |                                            | Browsing History View | https://www.nirsoft.net/utils/browsing_history_view.html |
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
-
----
 
 ## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
