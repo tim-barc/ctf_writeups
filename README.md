@@ -213,85 +213,56 @@ Some of the tools frequently used in these writeups include:
 
 | Category                                  | Tool Name           | Link                                                                                        |
 | ----------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
-| **Network Scanning & Enumeration**        | Nmap                | nmap.org](https://nmap.org/                                                              |
+| **Network Scanning & Enumeration**        | Nmap                | https://nmap.org/                                                              |
 |                                           | GoBuster            | https://www.kali.org/tools/gobuster/                            |
 |                                           | WPScan              | https://wpscan.com/                                                         |
 |                                           | enum4linux          | https://www.kali.org/tools/enum4linux/                         |
-| **Vulnerability Scanning and Exploitation** | Burp Suite |
-|                                              | Metasploit |
-|                                              | Nikto | 
-|                                              | Hydra |
-|                                               | John the Ripper |                                               
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-
-### **Vulnerability Scanning and Exploitation**
-- [Burp Suite](https://portswigger.net/burp)
-- [Metasploit](https://www.metasploit.com/)
-- [Nikto](https://www.cisa.gov/resources-tools/services/nikto)
-- [Hydra](https://www.kali.org/tools/hydra/)
-- [John the Ripper](https://www.openwall.com/john/)
-
-### **Packet Analysis and Network Monitoring**
-- [Wireshark](https://www.wireshark.org/)
-- [TShark](https://www.wireshark.org/docs/man-pages/tshark.html)
-- [Snort](https://www.snort.org/)
-- [Zeek](https://zeek.org/)
-- [Brim](https://www.brimdata.io/download/)
-- [NetworkMiner](https://www.netresec.com/?page=NetworkMiner)
-
-### **Binary Analysis**
-- [Binwalk](https://github.com/ReFirmLabs/binwalk)
-
-### **Log Analysis and SIEM**
-- [ELK](https://www.elastic.co/elastic-stack)
-- [Splunk](https://www.splunk.com/)
-- [Wazuh](https://wazuh.com/)
-- [Event Viewer](https://learn.microsoft.com/en-us/shows/inside/event-viewer)
-- [Sysmon-View](https://github.com/nshalabi/SysmonTools)
-
-### **Cyber Threat Intelligence (CTI)**
-- [OpenCTI](https://github.com/OpenCTI-Platform/opencti)
-- [Mitre ATT&CK Matrix](https://attack.mitre.org/)
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [URLHaus](https://urlhaus.abuse.ch/browse/)
-- [IPInfo](https://ipinfo.io/)
-- [Cisco Talos](https://talosintelligence.com/)
-- [Shodan](https://www.shodan.io/)
-- [Kasperky Threat Intelligence Portal](https://opentip.kaspersky.com/)
-
-### **Malware Analysis**
-- [pestudio](https://www.winitor.com/download)
-- [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
-- [capa](https://github.com/mandiant/capa)
-- [Floss](https://github.com/mandiant/flare-floss)
-- [ProcDOT](https://www.procdot.com/downloadprocdotbinaries.htm)
-- [Olevba](https://github.com/decalage2/oletools/blob/master/oletools/olevba.py)
-- [Oledump](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
-- [IDA Free](https://hex-rays.com/ida-free)
-- [Radare2](https://rada.re/n/)
-- [Cutter](https://cutter.re/)
-- [Ghidra](https://ghidra-sre.org/)
-- [AnyRun](https://any.run/)
-- [Hybrid Analysis](https://hybrid-analysis.com/)
-- [Joes Sandbox](https://www.joesandbox.com/#windows)
-
-### **Forensics and Incident Response**
-- [Autopsy](https://www.autopsy.com/)
-- [Registry Explorer](https://ericzimmerman.github.io/#!index.md)
-- [Volatility3](https://github.com/volatilityfoundation/volatility3)
-- [FTK Imager](https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81)
-- [EZ Tools](https://www.sans.org/tools/ez-tools/)
-- [Browsing History View](https://www.nirsoft.net/utils/browsing_history_view.html)
+| **Vulnerability Scanning and Exploitation** | Burp Suite | https://portswigger.net/burp |
+|                                              | Metasploit | https://www.metasploit.com/ |
+|                                              | Nikto | https://www.cisa.gov/resources-tools/services/nikto |
+|                                              | Hydra | https://www.kali.org/tools/hydra/ |
+|                                               | John the Ripper | https://www.openwall.com/john/ |                                          
+| **Packet Analysis and Network Monitoring** | Wireshark | https://www.wireshark.org/ |
+|                                            | TShark | https://www.wireshark.org/docs/man-pages/tshark.html |
+|                                            | Snort | https://www.snort.org/ |
+|                                            | Zeek | https://zeek.org/ |
+|                                            | Brim | https://www.brimdata.io/download/ |
+|                                            | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
+| **Binary Analysis**                        | Binwalk | https://github.com/ReFirmLabs/binwalk |
+| **Log Analysis and SIEM**                  | ELK | https://www.elastic.co/elastic-stack |
+|                                            | Splunk | https://www.splunk.com/ |
+|                                            | Wazuh | https://wazuh.com/ |
+|                                            | Event Viewer | https://learn.microsoft.com/en-us/shows/inside/event-viewer |
+|                                            | Sysmon-View | (https://github.com/nshalabi/SysmonTools |
+| **Cyber Threat Intelligence (CTI)**        | OpenCTI | https://github.com/OpenCTI-Platform/opencti |
+|                                            | Mitre ATT&CK Matrix | https://attack.mitre.org/ |
+|                                            | VirusTotal | https://www.virustotal.com/gui/home/upload |
+|                                            | URLHaus | https://urlhaus.abuse.ch/browse/ |
+|                                            | IPInfo | https://ipinfo.io/ |
+|                                            | Cisco Talos | https://talosintelligence.com/ |
+|                                            | Shodan | https://www.shodan.io/ |
+|                                            | Kasperky Threat Intelligence Portal | https://opentip.kaspersky.com/ |
+| **Malware Analysis**                       | pestudio | https://www.winitor.com/download |
+|                                            | Detect It Easy | https://github.com/horsicq/Detect-It-Easy |
+|                                            | capa | https://github.com/mandiant/capa |
+|                                            | Floss | https://github.com/mandiant/flare-floss |
+|                                            | ProcDOT | https://www.procdot.com/downloadprocdotbinaries.htm |
+|                                            | Olevba | https://github.com/decalage2/oletools/blob/master/oletools/olevba.py |
+|                                             | Oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
+|                                            | IDA Free | https://hex-rays.com/ida-free |
+|                                            | Radare2 | https://rada.re/n/ |
+|                                            | Cutter | https://cutter.re/ |
+|                                            | Ghidra | https://ghidra-sre.org/ |
+|                                            | AnyRun | https://any.run/ |
+|                                            | Hybrid Analysis | https://hybrid-analysis.com/ |
+|                                            | Joes Sandbox | https://www.joesandbox.com/#windows |
+| **Forensics and Incident Response**        | Autopsy | https://www.autopsy.com/ |
+|                                            | EZ Tools | https://www.sans.org/tools/ez-tools/ |
+|                                            | Volatility3 | https://github.com/volatilityfoundation/volatility3 |
+|                                            | FTK Imager |  https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81 |                        
+|                                            | Browsing History View | https://www.nirsoft.net/utils/browsing_history_view.html |
+|                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
+| **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
 ---
 
