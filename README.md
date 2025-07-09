@@ -211,11 +211,28 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 ## Tools Used
 Some of the tools frequently used in these writeups include:
 
-### **Network Scanning and Enumeration**
-- [Nmap](https://nmap.org/)
-- [GoBuster](https://www.kali.org/tools/gobuster/)
-- [WPScan](https://wpscan.com/)
-- [enum4linux](https://www.kali.org/tools/enum4linux/)
+| Category                                  | Tool Name           | Link                                                                                        |
+| ----------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
+| **Network Scanning & Enumeration**        | Nmap                | nmap.org](https://nmap.org/                                                              |
+|                                           | GoBuster            | https://www.kali.org/tools/gobuster/                            |
+|                                           | WPScan              | https://wpscan.com/                                                         |
+|                                           | enum4linux          | https://www.kali.org/tools/enum4linux/                         |
+| **Vulnerability Scanning and Exploitation** | Burp Suite |
+|                                              | Metasploit |
+|                                              | Nikto | 
+|                                              | Hydra |
+|                                               | John the Ripper |                                               
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 
 ### **Vulnerability Scanning and Exploitation**
 - [Burp Suite](https://portswigger.net/burp)
