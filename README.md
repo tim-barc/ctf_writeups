@@ -35,9 +35,6 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - [Acknowledgments](#acknowledgments)
 - [Personal Platform Profiles](#personal-platform-profiles)
 
-<details>
-<summary><strong>Pentesting</strong></summary>
-
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|
@@ -61,8 +58,6 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 | Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](https://tryhackme.com/r/room/bsidesgtdav) | 🟢 Easy | ⭐⭐⭐ |
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) | 🟢 Easy | ⭐⭐⭐ |
 | Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) | 🟡 Medium | ⭐⭐⭐ |
-
-</details>
 
 ### **IDS/IPS**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
