@@ -32,7 +32,6 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
 - [Tools Used](#tools-used)
-- [Contributions & Feedback](#contributions-&-feedback)
 - [Acknowledgments](#acknowledgments)
 - [Personal Platform Profiles](#personal-platform-profiles)
 
@@ -270,11 +269,6 @@ Some of the tools frequently used in these writeups include:
 
 ---
 
-## **Contributions & Feedback**
-- Feel free to fork this repository and contribute additional writeups.
-- If you find any errors or improvements, please submit an issue.
-- Connect with me for discussions or feedback.
-
 ## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
@@ -282,5 +276,3 @@ A special thanks to all the CTF platforms and contributors who make learning cyb
 - [TryHackMe](https://tryhackme.com/p/Timzoes)
 - [BlueTeamLabs](https://blueteamlabs.online/profile/yourusername)
 - [CyberDefenders](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
-
----
