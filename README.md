@@ -34,26 +34,26 @@ The writeups in this repository are categorised based on the nature of the chall
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|
-| Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             |
-| Anonymous | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/anonymous) |
-| Basic Pentesting | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/basicpentestingjt) |
-| Blogger1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/blogger-1,675/#top) |
-| Bounty Hacker | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/cowboyhacker) |
-| Colddbox THM | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/colddboxeasy) |
-| Colddbox Vulnhub | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/colddbox-easy,586/) |  
-| Easy peasy | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/easypeasyctf) | 
-| IDE | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/ide) |
-| Lazy Admin | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf) | [VulnHub](https://www.vulnhub.com/entry/lazysysadmin-1,205/) |
-| Photographer | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/photographer-1,519/) | 
-| Mr Robot | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/mr-robot-1,151/) |
-| Pickle Rick | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/) | 
-| Raven 1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/raven-1,256/) |
-| Toolsrus | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/toolsrus) | 
-| Lookup | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf) | [TryHackMe](https://tryhackme.com/r/room/lookup) |
-| Wgel CTF | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf) | [TryHackMe](https://tryhackme.com/r/room/wgelctf) | 
-| Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](https://tryhackme.com/r/room/bsidesgtdav) |
-| Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) |
-| Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) |
+| Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             | 🟢 Easy | ⭐⭐⭐⭐ |
+| Anonymous | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/anonymous_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/anonymous) | 🟡 Medium | ⭐⭐⭐⭐ |
+| Basic Pentesting | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/basic_pentesting_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/basicpentestingjt) | 🟢 Easy | ⭐⭐⭐⭐ |
+| Blogger1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/blogger1_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/blogger-1,675/#top) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Bounty Hacker | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/bounty_hacker_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/cowboyhacker) | 🟢 Easy | ⭐⭐⭐⭐ |
+| Colddbox THM | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_thm_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/colddboxeasy) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Colddbox Vulnhub | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/colddbox_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/colddbox-easy,586/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Easy peasy | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/easy_peasy_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/easypeasyctf) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| IDE | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/ide_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/ide) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Lazy Admin | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lazyadmin_ctf.pdf) | [VulnHub](https://www.vulnhub.com/entry/lazysysadmin-1,205/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Photographer | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/photographer_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/photographer-1,519/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Mr Robot | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/mr_robot_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/mr-robot-1,151/) | 🟡 Medium | ⭐⭐⭐⭐ |
+| Pickle Rick | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/pickle_rick_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Raven 1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/raven_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/raven-1,256/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |
+| Toolsrus | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/toolsrus_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/toolsrus) | 🟢 Easy | ⭐⭐⭐ |
+| Lookup | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/lookup.pdf) | [TryHackMe](https://tryhackme.com/r/room/lookup) | 🟢 Easy | ⭐⭐⭐⭐ |
+| Wgel CTF | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/wgel_ctf.pdf) | [TryHackMe](https://tryhackme.com/r/room/wgelctf) | 🟢 Easy | ⭐⭐⭐ |
+| Dav | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/dav.pdf) | [TryHackMe](https://tryhackme.com/r/room/bsidesgtdav) | 🟢 Easy | ⭐⭐⭐ |
+| Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) | 🟢 Easy | ⭐⭐⭐ |
+| Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) | 🟡 Medium | ⭐⭐⭐ |
 
 ### **IDS/IPS**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
