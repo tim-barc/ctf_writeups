@@ -1,11 +1,11 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-164-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-165-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-14-blue?style=flat)
 ![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-39-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
-![CTI](https://img.shields.io/badge/CTI-7-blue?style=flat)
+![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-14-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
@@ -163,6 +163,7 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 | PhishStrike Lab               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_phishstrike.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |
 | Tusk Infostealer Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_tusk_infostealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | ⭐ |
 | Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     | 🟢 Easy | ⭐⭐ |
+| IcedID                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/cyber_defenders_icedid_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/)   | 🟢 Easy | ⭐ |
 
 ### **Log Analysis and Network Forensics**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
