@@ -43,7 +43,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 ### **Pentesting**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating | Tags | 
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|-----------------------------|
-| Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             | 🟢 Easy | ⭐⭐⭐⭐ |
+| Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             | 🟢 Easy | ⭐⭐⭐⭐ | `nmap` `curl` `hydra` `ftp` `binwalk` `steghide` `ssh` `privelege escalation`
 | Anonymous | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/anonymous_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/anonymous) | 🟡 Medium | ⭐⭐⭐⭐ |
 | Basic Pentesting | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/basic_pentesting_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/basicpentestingjt) | 🟢 Easy | ⭐⭐⭐⭐ |
 | Blogger1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/blogger1_writeup.pdf) | [VulnHub](https://www.vulnhub.com/entry/blogger-1,675/#top) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
