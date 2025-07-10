@@ -279,6 +279,6 @@ Some of the tools frequently used in these writeups include:
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
 ## Personal Platform Profiles
-- [TryHackMe](https://tryhackme.com/p/Timzoes)
-- [BlueTeamLabs](https://blueteamlabs.online/profile/yourusername)
-- [CyberDefenders](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
+- [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
+- [BlueTeamLabs | Top 10%](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
+- [CyberDefenders | Top 15 Aus](https://cyberdefenders.org/p/timbarclay#/overview)
