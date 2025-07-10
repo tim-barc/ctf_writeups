@@ -217,7 +217,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐ |
 
 ## Tools Used
-Some of the tools frequently used in these writeups include:
+Some of the tools used in these writeups include (not limited to):
 
 | Category                                  | Tool Name           | Link                                                                                        |
 | ----------------------------------------- | ------------------- | ------------------------------------------------------------------------------------------- |
