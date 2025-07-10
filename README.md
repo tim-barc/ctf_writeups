@@ -65,9 +65,9 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) | 🟡 Medium | ⭐⭐⭐ |
 
 ### **IDS/IPS**
-| Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
-| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|
-| Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ | 
+| Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating | Tags | 
+| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------| -----------------------------|
+| Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ | | `Snort` |
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ |
 
 ### **Network Forensics/Packet Analysis**
