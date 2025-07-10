@@ -41,8 +41,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [Personal Platform Profiles](#personal-platform-profiles)
 
 ### **Pentesting**
-| Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating |
-| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|
+| Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating | Tags | 
+| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|-----------------------------|
 | Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             | 🟢 Easy | ⭐⭐⭐⭐ |
 | Anonymous | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/anonymous_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/anonymous) | 🟡 Medium | ⭐⭐⭐⭐ |
 | Basic Pentesting | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/basic_pentesting_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/basicpentestingjt) | 🟢 Easy | ⭐⭐⭐⭐ |
@@ -66,13 +66,13 @@ When it comes to what platform to use, that depends on your interests and skill 
 
 ### **IDS/IPS**
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating | Tags | 
-| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------| -----------------------------|
+| ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|-----------------------------|
 | Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ |  `Snort` |
-| Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ |
+| Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ | `Snort` |
 
 ### **Network Forensics/Packet Analysis**
-| Challenge                             | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating |
-|---------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                             | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|---------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Zeek Exercises                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/zeek_exercises.pdf)             | [TryHackMe](https://tryhackme.com/r/room/zeekbroexercises)                      | 🟡 Medium | ⭐⭐⭐⭐⭐ |
 | Masterminds                           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/masterminds.pdf)                | [TryHackMe](https://tryhackme.com/r/room/mastermindsxlq)                        | 🟡 Medium | ⭐⭐⭐⭐⭐ |
 | Warzone 1                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/warzone1.pdf)                   | [TryHackMe](https://tryhackme.com/r/room/warzoneone)                            | 🟡 Medium | ⭐⭐⭐⭐⭐ |
@@ -88,8 +88,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    | 🟢 Easy | ⭐⭐⭐⭐⭐ |
 
 ### **SIEM (ELK, Splunk, etc.)**
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ |
 | Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          | 🟡 Medium | ⭐⭐⭐⭐⭐ |
 | Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                | 🟡 Medium | ⭐⭐⭐ |
@@ -106,8 +106,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          | 🟡 Medium | ⭐⭐ |
 
 ### **Digital Forensics**
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         | 🟢 Easy | ⭐⭐⭐ |
 | Retracted                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/retracted.pdf)             | [TryHackMe](https://tryhackme.com/r/room/retracted)                             | 🟢 Easy | ⭐⭐ |
 | Unattended                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/unattended.pdf)            | [TryHackMe](https://tryhackme.com/r/room/unattended)                            | 🟡 Medium | ⭐⭐⭐ |
@@ -151,8 +151,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 
 
 ### **Email Analysis**
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Greenholt Phish               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/the_greenholt_phish_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/phishingemails5fgjlzxc)            | 🟢 Easy | ⭐⭐⭐⭐⭐ |
 | Snapped Phish-ing Line        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snapped_phishing_line_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/snappedphishingline)             | 🟢 Easy | ⭐⭐⭐⭐ |
 | Phishing Analysis             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
@@ -160,8 +160,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Phishy v1                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishyv1.pdf)         | [BTLO](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)     | 🟡 Medium | ⭐⭐⭐ |
 
 ### **Cyber Threat Intelligence (CTI)**
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Trooper                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/trooper_writuep.pdf)       | [TryHackMe](https://tryhackme.com/r/room/trooper)                               | 🟢 Easy | ⭐⭐⭐⭐ |
 | Yellow RAT                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_yellow_rat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | ⭐⭐ |
 | GrabThePhiser                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_grab_the_phisher_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | 🟢 Easy | ⭐⭐⭐ |
@@ -172,8 +172,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | IcedID                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_icedid_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/)   | 🟢 Easy | ⭐ |
 
 ### **Log Analysis and Network Forensics**
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Boogeyman 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/boogeyman1_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman1)                            | 🟡 Medium | ⭐⭐⭐ |
 | PacketDetective               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_pakcet_defective_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/packetdetective/) | 🟢 Easy | ⭐⭐⭐⭐ |
 | DanaBot                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_dana_bot.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/danabot/)  | 🟢 Easy | ⭐⭐⭐⭐ |
@@ -190,8 +190,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     | 🟢 Easy | ⭐⭐⭐ |
 
 ### **Malware Analysis**
-| Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating |
-|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            | 🟡 Medium | ⭐⭐⭐⭐ |
 | Mr. Phisher                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/mrphisher_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/mrphisher)                            | 🟢 Easy | ⭐ |
 | Dunkle Materie                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/dunkle_materie_writeup.pdf)      | [TryHackMe](https://tryhackme.com/r/room/dunklematerieptxc9)                  | 🟡 Medium | ⭐⭐⭐⭐ |
@@ -210,8 +210,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 | Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      | 🟢 Easy | ⭐⭐⭐ |
 
 ### **Reverse Engineering**
-| Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating |
-|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|
+| Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐ |
 | DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟡 Medium  | ⭐⭐⭐⭐⭐ |
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐ |
