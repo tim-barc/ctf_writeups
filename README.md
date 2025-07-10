@@ -22,6 +22,7 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - 🟢 Easy
 - 🟡 Medium
 - 🔴 Hard
+  
 When it comes to what platform to use, that depends on your interests and skill level. For DFIR (digital forensics and incident response) and CTI (cyber threat intelligence) based challenges I highly recommend CyberDefenders, as it provides the most realistic challenges and often requires the use of VMs or a home lab. If you are a beginner, TryHackMe is a great place to start, as it often provides a VM or you can always use the AttackBox which comes preinstalled with a bunch of tools. 
 
 ## Table of Contents
