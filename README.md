@@ -154,10 +154,10 @@ When it comes to what platform to use, that depends on your interests and skill 
 ### **Email Analysis**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
-| Greenholt Phish               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/the_greenholt_phish_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/phishingemails5fgjlzxc)            | 🟢 Easy | ⭐⭐⭐⭐⭐ |
-| Snapped Phish-ing Line        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snapped_phishing_line_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/snappedphishingline)             | 🟢 Easy | ⭐⭐⭐⭐ |
-| Phishing Analysis             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
-| Phishing Analysis 2           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis_2.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) | 🟢 Easy | ⭐⭐⭐⭐⭐ |
+| Greenholt Phish               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/the_greenholt_phish_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/phishingemails5fgjlzxc)            | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Thunderbird` `mxtoolbox` `virustotal` |
+| Snapped Phish-ing Line        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snapped_phishing_line_writeup.pdf) | [TryHackMe](https://tryhackme.com/r/room/snappedphishingline)             | 🟢 Easy | ⭐⭐⭐⭐ | `virustotal` `text editor` |
+| Phishing Analysis             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `sublime` `url2png` |
+| Phishing Analysis 2           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis_2.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `sublime` `cyberchef` |
 | Phishy v1                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishyv1.pdf)         | [BTLO](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)     | 🟡 Medium | ⭐⭐⭐ |
 
 ### **Cyber Threat Intelligence (CTI)**
