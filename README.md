@@ -151,7 +151,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 | DiskFiltration               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/diskfiltration.pdf) | [TryHackMe](https://tryhackme.com/room/diskfiltration) | 🔴 Hard | ⭐⭐⭐⭐ |
 | Volatility Traces Lab        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_volatility_traces_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/volatility-traces/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |  `Volatility 3`  `Defense Evasion` |
 | MeteorHit Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_meteorhit_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/meteorhit/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Registry Explorer` `Timeline Explorer` `EVTXCmd` `MFTECmd` `VirusTotal` `NTFS Forensics` `Sysmon` `Defense Evasion` |  
-| Fog Ransomware Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_fog_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fog-ransomware/) 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `MFTECmd` `Timeline Explorer` `EvtxECmd` `VirusTotal`   
+| Fog Ransomware Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_fog_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fog-ransomware/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `MFTECmd` `Timeline Explorer` `EvtxECmd` `VirusTotal`   
 
 
 ### **Email Analysis**
