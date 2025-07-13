@@ -14,12 +14,12 @@
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
 
-<br><br>
+<br>
 
 ## Writeups
 The writeups in this repository (located in the "writeups" folder) are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used. The difficulty rating associated with each challenge matches the difficulty rating given by the platform hosting the challenge/lab/ctf, therefore, take it with a grain of salt as some challenges rated as hard are actually easy, etc. The rating is out of 5, where 5 stars means I enjoyed the challenge and 1 being I didn't find it enjoyable. 
 
-<br><br>
+<br>
 
 ## Where to Start
 I recommend starting with the easy or medium rated challenges, there is honestly little difference between the two ratings for the most part. You can find challenges associated with each difficulty rating by clicking CTRL + F and pasting one of the following tags:
@@ -29,7 +29,7 @@ I recommend starting with the easy or medium rated challenges, there is honestly
   
 When it comes to what platform to use, that depends on your interests and skill level. For DFIR (digital forensics and incident response) and CTI (cyber threat intelligence) based challenges I highly recommend CyberDefenders, as it provides the most realistic challenges and often requires the use of VMs or a home lab. If you are a beginner, TryHackMe is a great place to start, as it often provides a VM or you can always use the AttackBox which comes preinstalled with a bunch of tools. Lastly, if you want to learn about and practice security operations, I recommend checking out blue team labs online (BTLO).
 
-<br><br>
+<br>
 
 ## Table of Contents
 - [Pentesting](#pentesting)
@@ -315,12 +315,12 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
-<br><br>
+<br>
 
 ## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
-<br><br>
+<br>
 
 ## Personal Platform Profiles
 - [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
