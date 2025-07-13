@@ -91,7 +91,7 @@ This category focuses on packet analysis through PCAP files and zeek logs. Tools
 | XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` `CyberChef` | 
 
 ### **SIEM (ELK, Splunk, etc.)**
-These challenges simulate SIEM environments using SIEMs like Splunk, ELK, and Wazuh. They are ideal for learning log correlation and threat detection. 
+These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ | `Elastic` |
