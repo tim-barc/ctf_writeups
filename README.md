@@ -313,4 +313,4 @@ A special thanks to all the CTF platforms and contributors who make learning cyb
 ## Personal Platform Profiles
 - [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
 - [BlueTeamLabs | Top 10%](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
-- [CyberDefenders | Top 15 Aus](https://cyberdefenders.org/p/timbarclay#/overview)
+- [CyberDefenders | Top 10 Aus](https://cyberdefenders.org/p/timbarclay#/overview)
