@@ -223,8 +223,10 @@ This section focuses on static and dynamic malware analysis. These writeups docu
 | Nonyx                                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_nonyx.pdf)                  | [BTLO](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)       | 🟢 Easy | ⭐⭐⭐⭐ | `volatility 2` |
 | Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      | 🟢 Easy | ⭐⭐⭐ | `detect it easy` `VirusTotal` `sigcheck` `timeline explorer` |
 
+
+
 ### **Reverse Engineering**
-Challenges in this section involve reverse engineering binaries using IDA Pro, Ghidra, and Radare2.
+Challenges in this section involve understanding program logic and uncovering hidden functionality from binaries. They often require IDA Pro, Ghidra, or Radare2.
 | Challenge            | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |---------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐ | `radare2` `strings` |
