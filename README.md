@@ -112,7 +112,7 @@ These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify thr
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         | 🟢 Easy | ⭐⭐⭐ | `Wazuh` `CyberChef` |
 
 ### **Digital Forensics**
-These writeups cover memory, disk, and host-based forensics. You will find challenges involving registry analysis, memory dumps, timeline reconstruction, and investigating compromised machines using tools like Volatility, FTK Imager, Autopsy, and more. 
+These writeups cover memory, disk, and host-based forensics. You will find challenges involving registry analysis, memory dumps, timeline reconstruction, and more. Most of these challenges involve analysing disk images, kape images, or memory dumps from compromised hosts, primarily Windows hosts. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Retracted                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/retracted.pdf)             | [TryHackMe](https://tryhackme.com/r/room/retracted)                             | 🟢 Easy | ⭐⭐ | `Event Viewer` |
