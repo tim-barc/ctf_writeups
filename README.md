@@ -14,8 +14,12 @@
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
 Capture The Flag (CTF) competitions are a popular way to practice and improve cybersecurity skills. These competitions present various challenges that require problem-solving, creativity, and technical knowledge. This repository contains my writeups for different CTF challenges I have participated in.
 
+<br><br>
+
 ## Writeups
 The writeups in this repository (located in the "writeups" folder) are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used. The difficulty rating associated with each challenge matches the difficulty rating given by the platform hosting the challenge/lab/ctf, therefore, take it with a grain of salt as some challenges rated as hard are actually easy, etc. The rating is out of 5, where 5 stars means I enjoyed the challenge and 1 being I didn't find it enjoyable. 
+
+<br><br>
 
 ## Where to Start
 I recommend starting with the easy or medium rated challenges, there is honestly little difference between the two ratings for the most part. You can find challenges associated with each difficulty rating by clicking CTRL + F and pasting one of the following tags:
@@ -24,6 +28,8 @@ I recommend starting with the easy or medium rated challenges, there is honestly
 - 🔴 Hard
   
 When it comes to what platform to use, that depends on your interests and skill level. For DFIR (digital forensics and incident response) and CTI (cyber threat intelligence) based challenges I highly recommend CyberDefenders, as it provides the most realistic challenges and often requires the use of VMs or a home lab. If you are a beginner, TryHackMe is a great place to start, as it often provides a VM or you can always use the AttackBox which comes preinstalled with a bunch of tools. Lastly, if you want to learn about and practice security operations, I recommend checking out blue team labs online (BTLO).
+
+<br><br>
 
 ## Table of Contents
 - [Pentesting](#pentesting)
@@ -39,6 +45,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [Tools Used](#tools-used)
 - [Acknowledgments](#acknowledgments)
 - [Personal Platform Profiles](#personal-platform-profiles)
+
+<br><br>
 
 ### **Pentesting**
 This section contains writeups focused on penetration testing. Challenges are typically boot2root which involve scanning, enumeration, vulnerability analysis and exploitation, privilege escalation, and more. Great for building foundation penetration testing skills and learning common attacks. 
@@ -65,12 +73,16 @@ This section contains writeups focused on penetration testing. Challenges are ty
 | Silver Platter | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/silver_platter.pdf) | [TryHackMe](https://tryhackme.com/r/room/silverplatter) | 🟢 Easy | ⭐⭐⭐ | `Nmap` `GoBuster` `ssh` `privilege escalation` |
 | Basic | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/hack_this_site_basic.pdf) | [HackThisSite](https://www.hackthissite.org/missions/basic/) | 🟡 Medium | ⭐⭐⭐ | `burp suite` |
 
+<br><br>
+
 ### **IDS/IPS**
 Writeups here explore intrusion detection and prevention systems like Snort. These labs simulate network-based attacks and help develop skills in detecting and repsonding to suspicious traffic patterns and rule-based alerts. 
 | Challenge        | Writeup                                                                                | Challenge Link                                                     | Difficulty | Rating | Tags | 
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|-----------------------------|
 | Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ |  `Snort` |
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ | `Snort` |
+
+<br><br>
 
 ### **Network Forensics/Packet Analysis**
 This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
@@ -89,6 +101,8 @@ This category focuses on packet analysis through PCAP files and zeek logs. Tools
 | l337 S4uc3 Lab                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_l337_S4uc3_Lab.pdf)| [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Network Miner` `Brim` `volatility 2` |
 | Network Analysis - Ransomware        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_network_analysis_ransomware.pdf)| [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | 🟡 Medium | ⭐⭐ | `Wireshark` |
 | XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` `CyberChef` | 
+
+<br><br>
 
 ### **SIEM (ELK, Splunk, etc.)**
 These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
@@ -110,6 +124,8 @@ These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify thr
 | Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          | 🟡 Medium | ⭐⭐ | `Elastic` |
 | NerisBot Lab                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_nerisbot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Splunk` `Zeek` `Suricata` `VirusTotal`   |
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         | 🟢 Easy | ⭐⭐⭐ | `Wazuh` `CyberChef` |
+
+<br><br>
 
 ### **Digital Forensics**
 These writeups cover memory, disk, and host-based forensics. You will find challenges involving registry analysis, memory dumps, timeline reconstruction, and more. Most of these challenges involve analysing disk images, kape images, or memory dumps from compromised hosts, primarily Windows hosts. 
@@ -159,6 +175,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | Fog Ransomware Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_fog_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/fog-ransomware/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `MFTECmd` `Timeline Explorer` `EvtxECmd` `VirusTotal`   
 | NetX-Support Lab            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_netx_support_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/netx-support/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` `PECmd` `CyberChef` `Registry Explorer` `LECmd` |  
 
+<br><br>
 
 ### **Email Analysis**
 This section dives into investigating emails, primarily phishing emails. You will learn how to extract headers, decode payloads, verify SPF/DKIM records, and asess malicious indicators in emails. 
@@ -183,6 +200,8 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 | Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     | 🟢 Easy | ⭐⭐ | `VirusTotal` `any.run` |
 | IcedID                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_icedid_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/)   | 🟢 Easy | ⭐ | `VirusTotal` `Tria.ge` `Malpedia` |
 
+<br><br>
+
 ### **Log Analysis and Network Forensics**
 This category includes Windows event log and application log analysis alongside network forensics to uncover signs of compromise. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
@@ -201,6 +220,8 @@ This category includes Windows event log and application log analysis alongside 
 | OpenWire Lab                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_openwire_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | 🟡 Medium | ⭐⭐⭐⭐ | `Wireshark` |
 | Network Analysis - Web Shell  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_network_analysis_web_shell.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b) | 🟢 Easy | ⭐⭐⭐⭐ | `Wireshark` |
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     | 🟢 Easy | ⭐⭐⭐ | `deepbluecli` `Event Viewer` |
+
+<br><br>
 
 ### **Malware Analysis**
 This section focuses on static and dynamic malware analysis. These writeups document the analysis of malicious PE files, scripts, macros, and more. 
@@ -232,6 +253,8 @@ Challenges in this section involve understanding program logic and uncovering hi
 | Reversing ELF       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/reversing_elf.pdf)         | [TryHackMe](https://tryhackme.com/r/room/reverselfiles)                         | 🟢 Easy  | ⭐⭐⭐⭐ | `radare2` `strings` |
 | DLL Stealer         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/lets_defend_dll_stealer.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/dll-stealer)                  | 🟡 Medium  | ⭐⭐⭐⭐⭐ | `dotPeek` |
 | Beginner Crackme    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/beginner_crackme.pdf)      | [Crackmes.one](https://crackmes.one/crackme/5f907efe33c5d424269a15d1)          | 🟢 Easy  | ⭐ | `IDA Pro`
+
+<br><br>
 
 ## Tools Used
 Some of the tools used in these writeups include (not limited to):
@@ -292,8 +315,12 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
+<br><br>
+
 ## **Acknowledgments**
 A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
+
+<br><br>
 
 ## Personal Platform Profiles
 - [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
