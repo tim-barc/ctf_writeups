@@ -17,6 +17,8 @@ Capture The Flag (CTF) competitions are a popular way to practice and improve cy
 ## Writeups
 The writeups in this repository (located in the "writeups" folder) are categorised based on the nature of the challenges. Each writeup provides step-by-step solutions, along with explanations of the tools and techniques used. The difficulty rating associated with each challenge matches the difficulty rating given by the platform hosting the challenge/lab/ctf, therefore, take it with a grain of salt as some challenges rated as hard are actually easy, etc. The rating is out of 5, where 5 stars means I enjoyed the challenge and 1 being I didn't find it enjoyable. 
 
+Disclaimer! In all honesty, some of these writeups are written poorly, mainly because I complete them to learn practical skills, not to practice reporting. When it comes to well written writeups, I recommend reading my most recent ones (i.e., those furthest down in the tables). 
+
 ## Where to Start
 I recommend starting with the easy or medium rated challenges, there is honestly little difference between the two ratings for the most part. You can find challenges associated with each difficulty rating by clicking CTRL + F and pasting one of the following tags:
 - 🟢 Easy
