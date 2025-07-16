@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-173-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-174-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-45-blue?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-46-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-14-blue?style=flat)
@@ -170,6 +170,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | NetX-Support Lab            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_netx_support_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/netx-support/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` `PECmd` `CyberChef` `Registry Explorer` `LECmd` |  
 | Beta Gamer Lab              | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_beta_gamer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/beta-gamer/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |  `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` |
 | Trigona Ransomware Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_trigona_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/trigona-ransomware/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `Registry Explorer` `MFTECmd` `PECmd` `AmcacheParser` |
+| ELPACO-team Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_elpaco_team_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/elpaco-team/) 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `MFTECmd` `VirusTotal` |
  
 <br><br>
 
