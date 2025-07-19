@@ -171,7 +171,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | Beta Gamer Lab              | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_beta_gamer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/beta-gamer/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |  `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` |
 | Trigona Ransomware Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_trigona_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/trigona-ransomware/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `Registry Explorer` `MFTECmd` `PECmd` `AmcacheParser` |
 | ELPACO-team Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_elpaco_team_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/elpaco-team/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `MFTECmd` `VirusTotal` |
-| QBot Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_qbot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/qbot/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility3` `VirusTotal` |
+| QBot Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_qbot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/qbot/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility3` `VirusTotal` `Malicious Excel Document` |
  
 <br><br>
 
