@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-178-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-179-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-49-blue?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-50-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-15-blue?style=flat)
@@ -174,6 +174,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | QBot Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_qbot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/qbot/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility3` `VirusTotal` `Malicious Excel Document` |
 | DarkCrystal Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_darkcrystal_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/darkcrystal/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility3` `Timeline Explorer` `EVTXCmd` |
 | Lockbit Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_lockbit_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lockbit/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `Notepad ++` `VirusTotal` |
+| CrownJewel1 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/crownjewel1.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/CrownJewel-1) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Hayabusa` `Timeline Explorer` `EVTXCmd` `MFTECmd` `Event Viewer` `ntds.dit` `Volume Shadow Copies` |
  
 <br><br>
 
