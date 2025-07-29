@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-184-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-185-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-54-blue?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-55-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-16-blue?style=flat)
@@ -179,6 +179,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | IronShade | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/ironshade.pdf) | [TryHackMe](https://tryhackme.com/room/ironshade) | 🟡 Medium | ⭐⭐⭐⭐ | `Bash` `Linux Forensics` |
 | VaultBreak Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_vaultbreak_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/vaultbreak/)  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `EvtxECmd` `Timeline Explorer` `MFTECmd` `Windows Forensics` `WMI` `Scheduled Tasks` |
 | LummaStealer Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_lummastealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lummastealer/)  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `DB Browser for SQLite` `Windows Forensics` |
+| MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hunter_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
  
 <br><br>
 
