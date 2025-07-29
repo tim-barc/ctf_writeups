@@ -179,7 +179,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | IronShade | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/ironshade.pdf) | [TryHackMe](https://tryhackme.com/room/ironshade) | 🟡 Medium | ⭐⭐⭐⭐ | `Bash` `Linux Forensics` |
 | VaultBreak Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_vaultbreak_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/vaultbreak/)  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `EvtxECmd` `Timeline Explorer` `MFTECmd` `Windows Forensics` `WMI` `Scheduled Tasks` |
 | LummaStealer Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_lummastealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/lummastealer/)  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `DB Browser for SQLite` `Windows Forensics` |
-| MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hunter_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
+| MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_minerhunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
  
 <br><br>
 
