@@ -1,12 +1,11 @@
 ![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-185-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-27-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-55-blue?style=flat)
+![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-58-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-16-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 
@@ -76,26 +75,6 @@ Writeups here explore intrusion detection and prevention systems like Snort. The
 | ---------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |------------|----------|-----------------------------|
 | Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ |  `Snort` |
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ | `Snort` |
-
-<br><br>
-
-### **Network Forensics/Packet Analysis**
-This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
-| Challenge                             | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating | Tags | 
-|---------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
-| XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` `CyberChef` |
-| Network Analysis - Ransomware        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_network_analysis_ransomware.pdf)| [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | 🟡 Medium | ⭐⭐ | `Wireshark` |
-| l337 S4uc3 Lab                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_l337_S4uc3_Lab.pdf)| [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Network Miner` `Brim` `volatility 2` |
-| Piggy                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_piggy.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)          | 🟢 Easy | ⭐⭐⭐ | `Wireshark` `VirusTotal` | 
-| Shiba Insider                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_shiba_insider.pdf)         | [BTLO](https://blueteamlabs.online/home/challenge/shiba-insider-5b48123711)     | 🟢 Easy | ⭐⭐ | `Wireshark` `exiftool` | 
-| Tshark Challenge II: Directory        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark_challenge_2_directory.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengestwo)                  | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Tshark` `VirusTotal` |
-| TShark Challenge 1: Teamwork          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark_challenge_1_teamwork.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengesone)                   | 🟢 Easy | ⭐⭐ | `Tshark` `VirusTotal` |
-| TShark                                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark.pdf)                     | [TryHackMe](https://tryhackme.com/r/room/tshark)                                | 🟡 Medium | ⭐⭐⭐ | `Tshark` | 
-| Carnage                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/carnage_writeup.pdf)            | [TryHackMe](https://tryhackme.com/r/room/c2carnage)                             | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` | 
-| Warzone 2                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/warzone_2_challenge.pdf)        | [TryHackMe](https://tryhackme.com/r/room/warzonetwo)                            | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `Network Miner` `Wireshark` `VirusTotal` `CyberChef` |
-| Warzone 1                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/warzone1.pdf)                   | [TryHackMe](https://tryhackme.com/r/room/warzoneone)                            | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `Network Miner` `Wireshark` `VirusTotal` | 
-| Masterminds                           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/masterminds.pdf)                | [TryHackMe](https://tryhackme.com/r/room/mastermindsxlq)                        | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `VirusTotal` |
-| Zeek Exercises                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/zeek_exercises.pdf)             | [TryHackMe](https://tryhackme.com/r/room/zeekbroexercises)                      | 🟡 Medium | ⭐⭐⭐⭐⭐ | `zeek` `CyberChef` `VirusTotal` |
 
 <br><br>
 
@@ -183,6 +162,9 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | NetX-Support Lab            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_netx_support_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/netx-support/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` `PECmd` `CyberChef` `Registry Explorer` `LECmd` |  
 | Beta Gamer Lab              | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_beta_gamer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/beta-gamer/) | 🟡 Medium | ⭐⭐⭐⭐⭐ |  `DB Browser for SQLite` `FTK Imager` `MFTECmd` `EVTXCmd` |
 | Trigona Ransomware Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_trigona_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/trigona-ransomware/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EVTXCmd` `Timeline Explorer` `Registry Explorer` `MFTECmd` `PECmd` `AmcacheParser` |
+| Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     | 🟢 Easy | ⭐⭐⭐ | `deepbluecli` `Event Viewer` |
+| Brutus                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/brutus.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Brutus) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `grep` `awk` `sed` `sort` `uniq` `last` `grep` `auth.log` `wtmp` |
+| Crownjewel-2                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/crownjewewl2.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/CrownJewel-2) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` |
  
 <br><br>
 
@@ -213,8 +195,8 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 
 <br><br>
 
-### **Log Analysis and Network Forensics**
-This category includes Windows event log and application log analysis alongside network forensics to uncover signs of compromise. 
+### **Network Forensics**
+This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | Boogeyman 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/boogeyman1_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman1)                            | 🟡 Medium | ⭐⭐⭐ | `Thunderbird` `lnkparse` `cat` `Wireshark` |
@@ -230,9 +212,19 @@ This category includes Windows event log and application log analysis alongside 
 | Brute Force Attack            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/lets_defend_brute_force_attack.pdf) | [LetsDefend](https://app.letsdefend.io/challenge/brute-force-attacks)           | 🟡 Medium | ⭐⭐⭐⭐ | `Wireshark` `cat` `grep` |
 | OpenWire Lab                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_openwire_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/openwire/) | 🟡 Medium | ⭐⭐⭐⭐ | `Wireshark` |
 | Network Analysis - Web Shell  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_network_analysis_web_shell.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-web-shell-d4d3a2821b) | 🟢 Easy | ⭐⭐⭐⭐ | `Wireshark` |
-| Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     | 🟢 Easy | ⭐⭐⭐ | `deepbluecli` `Event Viewer` |
-| Brutus                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/brutus.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Brutus) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `grep` `awk` `sed` `sort` `uniq` `last` `grep` `auth.log` `wtmp` |
-| Crownjewel-2                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/crownjewewl2.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/CrownJewel-2) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` |
+| XMLRat Lab                            | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xlmrat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xlmrat/)    | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` `CyberChef` |
+| Network Analysis - Ransomware        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_network_analysis_ransomware.pdf)| [BTLO](https://blueteamlabs.online/home/challenge/network-analysis-ransomware-3dd520c7ec) | 🟡 Medium | ⭐⭐ | `Wireshark` |
+| l337 S4uc3 Lab                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_l337_S4uc3_Lab.pdf)| [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/l337-s4uc3/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Network Miner` `Brim` `volatility 2` |
+| Piggy                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_piggy.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/piggy-aij2bd8h2)          | 🟢 Easy | ⭐⭐⭐ | `Wireshark` `VirusTotal` | 
+| Shiba Insider                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_shiba_insider.pdf)         | [BTLO](https://blueteamlabs.online/home/challenge/shiba-insider-5b48123711)     | 🟢 Easy | ⭐⭐ | `Wireshark` `exiftool` | 
+| Tshark Challenge II: Directory        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark_challenge_2_directory.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengestwo)                  | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Tshark` `VirusTotal` |
+| TShark Challenge 1: Teamwork          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark_challenge_1_teamwork.pdf)| [TryHackMe](https://tryhackme.com/r/room/tsharkchallengesone)                   | 🟢 Easy | ⭐⭐ | `Tshark` `VirusTotal` |
+| TShark                                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/tshark.pdf)                     | [TryHackMe](https://tryhackme.com/r/room/tshark)                                | 🟡 Medium | ⭐⭐⭐ | `Tshark` | 
+| Carnage                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/carnage_writeup.pdf)            | [TryHackMe](https://tryhackme.com/r/room/c2carnage)                             | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` | 
+| Warzone 2                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/warzone_2_challenge.pdf)        | [TryHackMe](https://tryhackme.com/r/room/warzonetwo)                            | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `Network Miner` `Wireshark` `VirusTotal` `CyberChef` |
+| Warzone 1                             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/warzone1.pdf)                   | [TryHackMe](https://tryhackme.com/r/room/warzoneone)                            | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `Network Miner` `Wireshark` `VirusTotal` | 
+| Masterminds                           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/masterminds.pdf)                | [TryHackMe](https://tryhackme.com/r/room/mastermindsxlq)                        | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Brim` `VirusTotal` |
+| Zeek Exercises                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/zeek_exercises.pdf)             | [TryHackMe](https://tryhackme.com/r/room/zeekbroexercises)                      | 🟡 Medium | ⭐⭐⭐⭐⭐ | `zeek` `CyberChef` `VirusTotal` |
 
 <br><br>
 
