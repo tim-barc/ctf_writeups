@@ -124,6 +124,8 @@ These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify thr
 
 ### **Digital Forensics**
 These writeups cover memory, disk, and host-based forensics. You will find challenges involving registry analysis, memory dumps, timeline reconstruction, and more. Most of these challenges involve analysing disk images, kape images, or memory dumps from compromised hosts, primarily Windows hosts. 
+
+### **Endpoint Forensics**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_minerhunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
