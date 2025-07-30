@@ -1,4 +1,4 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-185-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-154-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
