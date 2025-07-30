@@ -1,11 +1,12 @@
 ![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-185-blue?style=flat)
-![Pentesting](https://img.shields.io/badge/Pentesting-19-blue?style=flat)
+![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-27-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
-![Digital Forensics](https://img.shields.io/badge/Digital%20Forensics-58-blue?style=flat)
-![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-56-blue?style=flat)
+![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
+![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-26-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 
@@ -253,7 +254,7 @@ This section focuses on static and dynamic malware analysis. These writeups docu
 | Reverse Engineering - Another Injection   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_reverse_engineering_another_injection.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/reverse-engineering-another-injection-72001745c9) | 🟢 Easy | ⭐⭐⭐⭐ | `detect it easy` `strings` `IDA Pro` `CyberChef` |
 | Malware Analysis - Ransomware Script      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_malware_analysis_ransomware_script.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/malware-analysis-ransomware-script-4263fe6ecf) | 🟢 Easy | ⭐⭐⭐ | `text editor`
 | Nonyx                                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_nonyx.pdf)                  | [BTLO](https://blueteamlabs.online/home/investigation/nonyx-63b4769449)       | 🟢 Easy | ⭐⭐⭐⭐ | `volatility 2` |
-| Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      | 🟢 Easy | ⭐⭐⭐ | `detect it easy` `VirusTotal` `sigcheck` `timeline explorer` |
+| Anakus                                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_anakus.pdf)                 | [BTLO](https://blueteamlabs.online/home/investigation/anakus-dfea6f86e0)      | 🟢 Easy | ⭐⭐⭐ | `detect it easy` `VirusTotal` `sigcheck` `timeline explorer` 
 
 <br><br>
 
