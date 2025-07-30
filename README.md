@@ -31,7 +31,8 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [IDS/IPS](#idsips)
 - [SIEM (ELK, Splunk, etc.)](#siem-elk-splunk-etc)
 - [Cyber Threat Intelligence (CTI)](#cyber-threat-intelligence-cti)
-- [Digital Forensics](#endpoint-forensics)
+- [Endpoint Forensics](#endpoint-forensics)
+- [Mobile Forensics](#mobile-forensics)
 - [Email Analysis](#email-analysis)
 - [Network Forensics](#network-forensics)
 - [Malware Analysis](#malware-analysis)
@@ -167,8 +168,6 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | Bruteforce                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_bruteforce.pdf)        | [BTLO](https://blueteamlabs.online/home/challenge/bruteforce-16629bf9a2)       | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Timeline Explorer` `cat` |
 | Silent Breach                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_silent_breach_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/silent-breach/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `FTK Imager` `Browsing History View` `DB Browser for SQLite` `Strings` `Grep` |
 | Amadey Lab                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_amadey_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/amadey/)   | 🟢 Easy | ⭐⭐⭐ | `Volatility3` |
-| The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ALEAPP` |
-| Eli Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_denfenders_eli_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/eli/)      | 🟡 Medium | ⭐⭐ | `CLEAPP` |
 | DiskFiltration               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/diskfiltration.pdf) | [TryHackMe](https://tryhackme.com/room/diskfiltration) | 🔴 Hard | ⭐⭐⭐⭐ | `Autopsy` `Timeline Explorer` `MFTECmd` `Exiftool` `HxD` |
 | Volatility Traces Lab        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_volatility_traces_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/volatility-traces/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |  `Volatility 3`  `Defense Evasion` |
 | MeteorHit Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_meteorhit_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/meteorhit/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Registry Explorer` `Timeline Explorer` `EVTXCmd` `MFTECmd` `VirusTotal` `NTFS Forensics` `Sysmon` `Defense Evasion` |  
@@ -180,6 +179,14 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
 | Brutus                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/brutus.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Brutus) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `grep` `awk` `sed` `sort` `uniq` `last` `grep` `auth.log` `wtmp` |
 | Crownjewel-2                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/crownjewewl2.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/CrownJewel-2) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` |
  
+<br><br>
+
+### **Endpoint Forensics**
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ALEAPP` |
+| Eli Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_denfenders_eli_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/eli/)      | 🟡 Medium | ⭐⭐ | `CLEAPP` |
+
 <br><br>
 
 ### **Email Analysis**
