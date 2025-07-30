@@ -30,9 +30,9 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [Pentesting](#pentesting)
 - [IDS/IPS](#idsips)
 - [SIEM (ELK, Splunk, etc.)](#siem-elk-splunk-etc)
+- [Cyber Threat Intelligence (CTI)](#cyber-threat-intelligence-cti)
 - [Digital Forensics](#endpoint-forensics)
 - [Email Analysis](#email-analysis)
-- [Cyber Threat Intelligence (CTI)](#cyber-threat-intelligence-cti)
 - [Network Forensics](#network-forensics)
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
@@ -97,6 +97,21 @@ These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify thr
 | Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                | 🟡 Medium | ⭐⭐⭐ | `Elastic` |
 | Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Splunk` |
 | ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ | `Elastic` |
+
+<br><br>
+
+### **Cyber Threat Intelligence (CTI)**
+These labs focus on cyber threat intelligence, you will learn how to use threat intelligence platforms like VirusTotal, Malpedia, MITRE ATT&CK, and much more. Most of these challenges involve tracking malware campaigns, attributing malware to threat actors, etc. 
+| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
+|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| Trooper                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/trooper_writuep.pdf)       | [TryHackMe](https://tryhackme.com/r/room/trooper)                               | 🟢 Easy | ⭐⭐⭐⭐ | `Open CTI` |
+| Yellow RAT                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_yellow_rat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | ⭐⭐ | `VirusTotal` |
+| GrabThePhiser                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_grab_the_phisher_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | 🟢 Easy | ⭐⭐⭐ | `Sublime` |
+| Red Stealer                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_red_stealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/) | 🟢 Easy | ⭐⭐ | `VirusTotal` `MalwareBazaar` |
+| PhishStrike Lab               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_phishstrike.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Sublime` `URLhaus` `VirusTotal` |
+| Tusk Infostealer Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_tusk_infostealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | ⭐ | `Kaspersky Threat Intelligence Portal` `VirusTotal` |
+| Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     | 🟢 Easy | ⭐⭐ | `VirusTotal` `any.run` |
+| IcedID                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_icedid_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/)   | 🟢 Easy | ⭐ | `VirusTotal` `Tria.ge` `Malpedia` |
 
 <br><br>
 
@@ -176,21 +191,6 @@ This section dives into investigating emails, primarily phishing emails. You wil
 | Phishing Analysis             | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Sublime` `URL2PNG` |
 | Phishing Analysis 2           | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishing_analysis_2.pdf) | [BTLO](https://blueteamlabs.online/home/challenge/phishing-analysis-2-a1091574b8) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Sublime` `CyberChef` |
 | Phishy v1                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_phishyv1.pdf)         | [BTLO](https://blueteamlabs.online/home/investigation/phishy-v1-e3b5be4fe8)     | 🟡 Medium | ⭐⭐⭐ |
-
-<br><br>
-
-### **Cyber Threat Intelligence (CTI)**
-These labs focus on cyber threat intelligence, you will learn how to use threat intelligence platforms like VirusTotal, Malpedia, MITRE ATT&CK, and much more. Most of these challenges involve tracking malware campaigns, attributing malware to threat actors, etc. 
-| Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
-|-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
-| Trooper                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/trooper_writuep.pdf)       | [TryHackMe](https://tryhackme.com/r/room/trooper)                               | 🟢 Easy | ⭐⭐⭐⭐ | `Open CTI` |
-| Yellow RAT                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_yellow_rat_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/yellow-rat/) | 🟢 Easy | ⭐⭐ | `VirusTotal` |
-| GrabThePhiser                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_grab_the_phisher_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/) | 🟢 Easy | ⭐⭐⭐ | `Sublime` |
-| Red Stealer                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_red_stealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/red-stealer/) | 🟢 Easy | ⭐⭐ | `VirusTotal` `MalwareBazaar` |
-| PhishStrike Lab               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_phishstrike.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishstrike/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Sublime` `URLhaus` `VirusTotal` |
-| Tusk Infostealer Lab          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_tusk_infostealer_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/tusk-infostealer/) | 🟢 Easy | ⭐ | `Kaspersky Threat Intelligence Portal` `VirusTotal` |
-| Oski Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_oski_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/oski/)     | 🟢 Easy | ⭐⭐ | `VirusTotal` `any.run` |
-| IcedID                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_icedid_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid/)   | 🟢 Easy | ⭐ | `VirusTotal` `Tria.ge` `Malpedia` |
 
 <br><br>
 
