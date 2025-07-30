@@ -39,7 +39,6 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [Malware Analysis](#malware-analysis)
 - [Reverse Engineering](#reverse-engineering)
 - [Tools Used](#tools-used)
-- [Acknowledgments](#acknowledgments)
 - [Personal Platform Profiles](#personal-platform-profiles)
 
 ### **Pentesting**
@@ -118,6 +117,7 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 <br><br>
 
 ### **Endpoint Forensics**
+These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_minerhunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
@@ -180,6 +180,7 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 <br><br>
 
 ### **Mobile Forensics**
+This section focuses on investigating mobile devices. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ALEAPP` |
@@ -323,9 +324,6 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Browsing History View | https://www.nirsoft.net/utils/browsing_history_view.html |
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
-
-## **Acknowledgments**
-A special thanks to all the CTF platforms and contributors who make learning cybersecurity engaging and accessible.
 
 ## Personal Platform Profiles
 - [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
