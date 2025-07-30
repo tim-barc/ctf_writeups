@@ -117,9 +117,6 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 
 <br><br>
 
-### **Digital Forensics**
-These writeups cover memory, disk, and host-based forensics. You will find challenges involving registry analysis, memory dumps, timeline reconstruction, and more. Most of these challenges involve analysing disk images, kape images, or memory dumps from compromised hosts, primarily Windows hosts. 
-
 ### **Endpoint Forensics**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
@@ -182,7 +179,7 @@ These writeups cover memory, disk, and host-based forensics. You will find chall
  
 <br><br>
 
-### **Endpoint Forensics**
+### **Mobile Forensics**
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
 | The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ALEAPP` |
