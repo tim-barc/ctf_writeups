@@ -67,7 +67,7 @@ This section contains writeups focused on penetration testing. Challenges are ty
 | Agent Sudo       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/agent_sudo_writeup.pdf)       | [TryHackMe](https://tryhackme.com/r/room/agentsudoctf)             | 🟢 Easy | ⭐⭐⭐⭐ | `Nmap` `curl` `hydra` `FTP` `binwalk` `steghide` `ssh` `privilege escalation` |
 
 
-<br><br>
+<br>
 
 ### **IDS/IPS**
 Writeups here explore intrusion detection and prevention systems like Snort. These labs simulate network-based attacks and help develop skills in detecting and repsonding to suspicious traffic patterns and rule-based alerts. 
@@ -76,7 +76,7 @@ Writeups here explore intrusion detection and prevention systems like Snort. The
 | Snort Challenge the Basics  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_the_basics.pdf) | [TryHackMe](https://tryhackme.com/r/room/snortchallenges2)       | 🟡 Medium | ⭐⭐ |  `Snort` |
 | Snort Challenge live attacks | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/snort_challenge_live_attacks.pdf) | [TryHackMe](https://tryhackme.com/jr/snortchallenges2) | 🟡 Medium | ⭐⭐⭐ | `Snort` |
 
-<br><br>
+<br>
 
 ### **SIEM (ELK, Splunk, etc.)**
 These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
