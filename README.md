@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-156-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-157-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-58-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-59-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-26-blue?style=flat)
@@ -178,6 +178,7 @@ These challenges mainly involve investigating compromised endpoints, primarily W
 | Deep Blue                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_deep_blue.pdf)        | [BTLO](https://blueteamlabs.online/home/investigation/deep-blue-a4c18ce507)     | 🟢 Easy | ⭐⭐⭐ | `deepbluecli` `Event Viewer` |
 | Brutus                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/brutus.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Brutus) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `grep` `awk` `sed` `sort` `uniq` `last` `grep` `auth.log` `wtmp` |
 | Crownjewel-2                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/crownjewewl2.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/CrownJewel-2) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` |
+| Operationa Blackout 2025: Phantom Check | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/operation_blackout_2025_phantom_check.pdf) | [HackTheBox](https://app.hackthebox.com/sherlocks/Operation%20Blackout%202025:%20Phantom%20Check/play) | 🟢 Easy | ⭐⭐ | `EvtxECmd` `Timeline Explorer` |
  
 <br>
 
