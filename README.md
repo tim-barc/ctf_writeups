@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-157-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-158-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-59-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-60-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-26-blue?style=flat)
@@ -120,6 +120,7 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| SpottedInTheWild Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_spottedinthewild_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/spottedinthewild/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Arsenal Image Mounter` `PECmd` `MFTECmd` `EvtxECmd` `Timeline Explorer` `Strings` `CyberChef` `AnyRun` `CVE-2023-38831` `bitsadmin` `Windows Forensics` |
 | Akira Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_akira_lab.pdf) | [CyberDefedners](https://cyberdefenders.org/blueteam-ctf-challenges/akira/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility 3` `MemProcFS` `EvtxECmd` `Timline Explorer` `Strings` `Text Editor` `Windows Forensics` `PsExec` |
 | IcedID 2 Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_icedid_2_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/icedid-2/) | 🟡 Medium | ⭐⭐⭐ | `Volatility 3` `MemProcFS` `Text Editor` `VirusTotal` `Windows Forensics` |
 | MinerHunt Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_minerhunt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/minerhunt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `EvtxECmd` `Timeline Explorer` `VirusTotal` `Windows Forensics` `Microsoft SQL Server` `IFEO` `WMI` |
