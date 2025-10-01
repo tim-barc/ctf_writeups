@@ -1,4 +1,4 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-162-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-163-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
@@ -6,7 +6,7 @@
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-61-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-29-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-30-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 
@@ -209,6 +209,7 @@ This section dives into investigating emails, primarily phishing emails. You wil
 This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| RCEMiner Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_rceminer_lab.pdf) | [CyberDefenders]([https://cyberdefenders.org/blueteam-ctf-challenges/bluesky-ransomware/](https://cyberdefenders.org/blueteam-ctf-challenges/rceminer/))  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `VirusTotal` |
 | BlueSky Ransomware Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_bluesky_ransomware_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/bluesky-ransomware/)  | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `Event Log Explorer` `CyberChef` `VirusTotal` |
 | HawkEye Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hawkeye_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hawkeye/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `NetworkMiner` `VirusTotal` |
 | PacketMaze Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_packetmaze_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/packetmaze/)  | 🟡 Medium | ⭐ | `Wireshark` `NetworkMiner` |
