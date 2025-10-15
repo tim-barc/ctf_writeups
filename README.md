@@ -304,7 +304,7 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | TShark | https://www.Wireshark.org/docs/man-pages/tshark.html |
 |                                            | Snort | https://www.snort.org/ |
 |                                            | Zeek | https://zeek.org/ |
-|                                            | Brim | https://www.brimdata.io/download/ |
+|                                            | Brim/Zui | https://www.brimdata.io/download/ |
 |                                            | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
 | **Binary Analysis**                        | Binwalk | https://github.com/ReFirmLabs/binwalk |
 | **Log Analysis and SIEM**                  | ELK | https://www.elastic.co/elastic-stack |
@@ -331,6 +331,7 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Olevba | https://github.com/decalage2/oletools/blob/master/oletools/olevba.py |
 |                                             | Oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
 |                                            | IDA Free | https://hex-rays.com/ida-free |
+|                                            | scdbg | https://sandsprite.com/blogs/index.php?uid=7&pid=152 |
 |                                            | Radare2 | https://rada.re/n/ |
 |                                            | Cutter | https://cutter.re/ |
 |                                            | Ghidra | https://ghidra-sre.org/ |
