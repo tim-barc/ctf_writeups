@@ -1,4 +1,4 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-173-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-174-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
@@ -6,7 +6,7 @@
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-61-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-40-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 
@@ -209,6 +209,7 @@ This section dives into investigating emails, primarily phishing emails. You wil
 This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| Trident Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_trident_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/trident/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `NetworkMiner` `VirusTotal` `IDA Pro` `scdbg` `CVE-2021-40444` `shellcode analysis` |
 | NukeTheBrowser Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_nuke_the_browser_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nukethebrowser/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `VirusTotal` `scdbg` `CVE-2005-2127` `shellcode analysis` |
 | HoneyBOT Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_honeybot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/honeybot/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `NetworkMiner` `VirusTotal` `scdbg` `CVE-2003-0533` `shellcode analysis` |
 | Malware Traffic Analysis 5 Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_malware_traffic_analysis_5.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/malware-traffic-analysis-5/) | 🟡 Medium | ⭐⭐ | `Wireshark` `Zui` `VirusTotal` `Oledump` `Thunderbird`   |
