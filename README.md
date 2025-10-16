@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-174-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-175-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-61-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-62-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
@@ -120,6 +120,7 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| Phishy Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_phishy_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishy/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `FTK Imager` `Autopsy` `Registry Explorer` `WhatsApp Viewer` `CyberChef` `Olevba` `oledump.py` `BrowsingHistoryView` `PasswordFox` `VirusTotal` `Windows Forensics` `Macro analysis` |
 | Hammered Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hammered_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Linux Command Line Tools` `Linux Forensics` |
 | SpottedInTheWild Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_spottedinthewild_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/spottedinthewild/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Arsenal Image Mounter` `PECmd` `MFTECmd` `EvtxECmd` `Timeline Explorer` `Strings` `CyberChef` `AnyRun` `CVE-2023-38831` `bitsadmin` `Windows Forensics` |
 | Akira Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_akira_lab.pdf) | [CyberDefedners](https://cyberdefenders.org/blueteam-ctf-challenges/akira/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility 3` `MemProcFS` `EvtxECmd` `Timline Explorer` `Strings` `Text Editor` `Windows Forensics` `PsExec` |
@@ -344,6 +345,8 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | FTK Imager |  https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81 |                        
 |                                            | Browsing History View | https://www.nirsoft.net/utils/browsing_history_view.html |
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
+|                                            | PasswordFox | https://www.nirsoft.net/utils/passwordfox.html |
+|                                            | WhatsApp Viewer | https://github.com/andreas-mausch/whatsapp-viewer |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
 ## Personal Platform Profiles
