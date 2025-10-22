@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-177-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-178-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-64-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-65-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
@@ -120,6 +120,7 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| DetectLog4j Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_detectlog4j_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/detectlog4j/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Arsenal Image Mounter` `Registry Explorer` `Event Log Explorer` `CyberChef` `FakeNet` `Java Decompiler` `VirusTotal` `dnSpy` `CVE-2021-44228` |
 | Szechuan Sauce Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_szechuan_suace_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/szechuan-sauce/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility 3` `Arsenal Image Mounter` `Registry Explorer` `EvtxECmd` `Timeline Explorer` `VirusTotal` `Wireshark` `NetworkMiner` `DS Internals PowerShell framework` `Crack Station` `Event Log Explorer` `FTK Imager` `Credential Dumping` |
 | Zerologon Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_zerologon_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/zerologon/) | 🔴 Hard| ⭐⭐⭐⭐⭐ | `MFTECmd` `Timeline Explorer` `LECmd` `EvtxECmd` `CyberChef` `Notepad++` `Event Log Explorer` `Windows Forensics` |
 | Phishy Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_phishy_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishy/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `FTK Imager` `Autopsy` `Registry Explorer` `WhatsApp Viewer` `CyberChef` `Olevba` `oledump.py` `BrowsingHistoryView` `PasswordFox` `VirusTotal` `Windows Forensics` `Macro analysis` |
@@ -339,6 +340,8 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Cutter | https://cutter.re/ |
 |                                            | Ghidra | https://ghidra-sre.org/ |
 |                                            | AnyRun | https://any.run/ |
+|                                             | FakeNet | https://github.com/mandiant/flare-fakenet-ng |
+|                                            | dnSpy | https://github.com/dnSpy/dnSpy |
 |                                            | Hybrid Analysis | https://hybrid-analysis.com/ |
 |                                            | Joes Sandbox | https://www.joesandbox.com/#windows |
 | **Forensics and Incident Response**        | Autopsy | https://www.autopsy.com/ |
@@ -349,9 +352,11 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
 |                                            | PasswordFox | https://www.nirsoft.net/utils/passwordfox.html |
 |                                            | WhatsApp Viewer | https://github.com/andreas-mausch/whatsapp-viewer |
+|                                            | Event Log Explorer | https://eventlogxp.com/ |
+|                                            | NirSoft Tools | https://www.nirsoft.net/ |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
 ## Personal Platform Profiles
 - [TryHackMe | Top 1%](https://tryhackme.com/p/Timzoes)
 - [BlueTeamLabs | Top 10%](https://blueteamlabs.online/home/user/239fed38c2bc3b10c6499d)
-- [CyberDefenders | Top 10 Aus](https://cyberdefenders.org/p/TimmyB)
+- [CyberDefenders | Top 15 Aus](https://cyberdefenders.org/p/TimmyB)
