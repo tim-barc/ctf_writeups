@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-178-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-179-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-65-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-66-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
@@ -120,9 +120,10 @@ These labs focus on cyber threat intelligence, you will learn how to use threat 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| PwnedDC Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_pwneddc_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/pwned-dc/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Event Log Explorer` `Arsenal Image Mounter` `Outlook Forensics Wizard` `olevba` `scdbg` `Volatility 2` `ClamScan` `VirusTotal` `HxD` `Resource Hacker` `Strings` `Python` `VBA Stomping` `yara` |
 | DetectLog4j Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_detectlog4j_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/detectlog4j/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Arsenal Image Mounter` `Registry Explorer` `Event Log Explorer` `CyberChef` `FakeNet` `Java Decompiler` `VirusTotal` `dnSpy` `CVE-2021-44228` |
 | Szechuan Sauce Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_szechuan_suace_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/szechuan-sauce/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Volatility 3` `Arsenal Image Mounter` `Registry Explorer` `EvtxECmd` `Timeline Explorer` `VirusTotal` `Wireshark` `NetworkMiner` `DS Internals PowerShell framework` `Crack Station` `Event Log Explorer` `FTK Imager` `Credential Dumping` |
-| Zerologon Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_zerologon_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/zerologon/) | 🔴 Hard| ⭐⭐⭐⭐⭐ | `MFTECmd` `Timeline Explorer` `LECmd` `EvtxECmd` `CyberChef` `Notepad++` `Event Log Explorer` `Windows Forensics` |
+| Zerologon Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_zerologon_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/zerologon/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `MFTECmd` `Timeline Explorer` `LECmd` `EvtxECmd` `CyberChef` `Notepad++` `Event Log Explorer` `Windows Forensics` |
 | Phishy Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_phishy_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/phishy/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `FTK Imager` `Autopsy` `Registry Explorer` `WhatsApp Viewer` `CyberChef` `Olevba` `oledump.py` `BrowsingHistoryView` `PasswordFox` `VirusTotal` `Windows Forensics` `Macro analysis` |
 | Hammered Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hammered_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hammered/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Linux Command Line Tools` `Linux Forensics` |
 | SpottedInTheWild Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_spottedinthewild_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/spottedinthewild/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Arsenal Image Mounter` `PECmd` `MFTECmd` `EvtxECmd` `Timeline Explorer` `Strings` `CyberChef` `AnyRun` `CVE-2023-38831` `bitsadmin` `Windows Forensics` |
