@@ -1,14 +1,14 @@
 ![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-183-blue?style=flat)
-![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
+![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
-![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
+![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 
 # CTF Writeups
 Welcome to my CTF Writeups repository! Here, I document the solutions and methodologies used to solve various Capture The Flag (CTF) challenges. This repository is intended to serve as a learning resource for others interested in cybersecurity and CTF competitions.
