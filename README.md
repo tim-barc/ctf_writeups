@@ -1,6 +1,6 @@
 ![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-183-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-16-blue?style=flat)
