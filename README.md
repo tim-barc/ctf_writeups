@@ -41,7 +41,6 @@ When it comes to what platform to use, that depends on your interests and skill 
 - [Tools Used](#tools-used)
 - [Personal Platform Profiles](#personal-platform-profiles)
 
-
 <br>
 
 ### **Endpoint Forensics**
