@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-185-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-186-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
-![SIEM](https://img.shields.io/badge/SIEM-18-blue?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-19-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
@@ -190,6 +190,7 @@ Writeups here explore intrusion detection and prevention systems like Snort. The
 These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| GitTheGate Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_gitthegate_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/) | 🟡 Medium | ⭐⭐⭐ | `ELK` `CVE-2019-7609` |
 | Kerberoasted Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_kerberoasted_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` `Kerberoasting` |
 | ElasticCase Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_elasticcase_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         | 🟢 Easy | ⭐⭐⭐ | `Wazuh` `CyberChef` |
