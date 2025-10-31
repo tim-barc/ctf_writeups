@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-187-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-188-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
-![SIEM](https://img.shields.io/badge/SIEM-20-blue?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-21-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
@@ -190,26 +190,27 @@ Writeups here explore intrusion detection and prevention systems like Snort. The
 These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| REvil Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_revil_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/revil/) | 🟢 Easy  | ⭐⭐⭐⭐⭐ | `ELK` |
 | HafinumAPT Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hafinumapt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/) | 🔴 Hard  | ⭐⭐⭐⭐⭐ | `ELK` |
 | GitTheGate Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_gitthegate_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/) | 🟡 Medium | ⭐⭐⭐ | `ELK` `CVE-2019-7609` |
 | Kerberoasted Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_kerberoasted_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/kerberoasted/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` `Kerberoasting` |
 | ElasticCase Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_elasticcase_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/elasticcase/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
 | Monday Monitor                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/monday_monitor.pdf)        | [TryHackMe](https://tryhackme.com/r/room/mondaymonitor)                         | 🟢 Easy | ⭐⭐⭐ | `Wazuh` `CyberChef` |
 | NerisBot Lab                  | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_nerisbot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nerisbot/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Splunk` `Zeek` `Suricata` `VirusTotal` |
-| Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          | 🟡 Medium | ⭐⭐ | `Elastic` |
-| Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       | 🟢 Easy | ⭐⭐ | `Elastic` |
-| SOC Alpha 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_3.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)   | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Elastic` `VirusTotal` |
-| SOC Alpha 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_2.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)   | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Elastic` |
-| SOC Alpha 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_1.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)   | 🟢 Easy | ⭐⭐⭐ | `Elastic` |
-| Middle Mayhem                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_middle_mayhem.pdf)    | [BTLO](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)  | 🟢 Easy | ⭐⭐⭐ | `Elastic` |
-| Boogeyman 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/boogeyman3_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman3)                             | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Elastic` |
-| New Hire Old Artifacts        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/new_hire_old_artifacts.pdf)| [TryHackMe](https://tryhackme.com/r/room/newhireoldartifacts)                   | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Elastic` |
-| PS Eclipse                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/pseclipse.pdf)             | [TryHackMe](https://tryhackme.com/r/room/posheclipse)                           | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Elastic` |
-| Conti                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/conti.pdf)                 | [TryHackMe](https://tryhackme.com/r/room/contiransomwarehgh)                    | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Elastic` |
-| SlingShot                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/slingshot.pdf)             | [TryHackMe](https://tryhackme.com/r/room/slingshot)                             | 🟢 Easy | ⭐⭐⭐⭐ | `Elastic` `CyberChef` |
-| Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                | 🟡 Medium | ⭐⭐⭐ | `Elastic` |
+| Peak                          | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_peak.pdf)             | [BTLO](https://blueteamlabs.online/home/investigation/peak-98765b84cb)          | 🟡 Medium | ⭐⭐ | `ELK` |
+| Defaced                       | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_defaced.pdf)          | [BTLO](https://blueteamlabs.online/home/investigation/defaced-593f17897e)       | 🟢 Easy | ⭐⭐ | `ELK` |
+| SOC Alpha 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_3.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-3-cfb2546607)   | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` `VirusTotal` |
+| SOC Alpha 2                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_2.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-2-f3825dedc4)   | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ELK` |
+| SOC Alpha 1                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_soc_alpha_1.pdf)      | [BTLO](https://blueteamlabs.online/home/investigation/soc-alpha-1-2ba4c4a550)   | 🟢 Easy | ⭐⭐⭐ | `ELK` |
+| Middle Mayhem                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/btlo_middle_mayhem.pdf)    | [BTLO](https://blueteamlabs.online/home/investigation/middlemayhem-aa3c27f5d1)  | 🟢 Easy | ⭐⭐⭐ | `ELK` |
+| Boogeyman 3                   | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/boogeyman3_writeup.pdf)    | [TryHackMe](https://tryhackme.com/r/room/boogeyman3)                             | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
+| New Hire Old Artifacts        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/new_hire_old_artifacts.pdf)| [TryHackMe](https://tryhackme.com/r/room/newhireoldartifacts)                   | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
+| PS Eclipse                    | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/pseclipse.pdf)             | [TryHackMe](https://tryhackme.com/r/room/posheclipse)                           | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
+| Conti                         | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/conti.pdf)                 | [TryHackMe](https://tryhackme.com/r/room/contiransomwarehgh)                    | 🟡 Medium | ⭐⭐⭐⭐⭐ | `ELK` |
+| SlingShot                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/slingshot.pdf)             | [TryHackMe](https://tryhackme.com/r/room/slingshot)                             | 🟢 Easy | ⭐⭐⭐⭐ | `ELK` `CyberChef` |
+| Benign                        | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/benign.pdf)                | [TryHackMe](https://tryhackme.com/r/room/benign)                                | 🟡 Medium | ⭐⭐⭐ | `ELK` |
 | Investigating with Splunk     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/investigating_with_splunk.pdf) | [TryHackMe](https://tryhackme.com/r/room/investigatingwithsplunk)          | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Splunk` |
-| ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ | `Elastic` |
+| ItsyBitsy                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/itsybitsy.pdf)             | [TryHackMe](https://tryhackme.com/r/room/itsybitsy)                             | 🟡 Medium | ⭐⭐⭐ | `ELK` |
 
 <br>
 
