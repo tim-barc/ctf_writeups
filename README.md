@@ -1,9 +1,9 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-188-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-189-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-70-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
-![SIEM](https://img.shields.io/badge/SIEM-21-blue?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-22-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
 ![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-16-blue?style=flat)
@@ -190,6 +190,7 @@ Writeups here explore intrusion detection and prevention systems like Snort. The
 These challenges involve using SIEMs like Splunk, ELK, and Wazuh to identify threats. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| T1110-003 Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_t1110_003_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/t1110003/) | 🟢 Easy  | ⭐⭐⭐⭐ | `ELK` `password spraying` `RDP` |
 | REvil Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_revil_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/revil/) | 🟢 Easy  | ⭐⭐⭐⭐⭐ | `ELK` |
 | HafinumAPT Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_hafinumapt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/hafinumapt/) | 🔴 Hard  | ⭐⭐⭐⭐⭐ | `ELK` |
 | GitTheGate Lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_gitthegate_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/gitthegate/) | 🟡 Medium | ⭐⭐⭐ | `ELK` `CVE-2019-7609` |
