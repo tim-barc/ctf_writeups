@@ -311,16 +311,16 @@ Some of the tools used in these writeups include (not limited to):
 |                                           | GoBuster            | https://www.kali.org/tools/gobuster/                            |
 |                                           | WPScan              | https://wpscan.com/                                                         |
 |                                           | enum4linux          | https://www.kali.org/tools/enum4linux/                         |
-| **Vulnerability Scanning and Exploitation** | Burp Suite | https://portswigger.net/burp |
-|                                              | Metasploit | https://www.metasploit.com/ |
-|                                              | Nikto | https://www.cisa.gov/resources-tools/services/nikto |
-|                                              | Hydra | https://www.kali.org/tools/hydra/ |
-|                                               | John the Ripper | https://www.openwall.com/john/ |                                          
+| **Vulnerability Scanning and Exploitation**| Burp Suite | https://portswigger.net/burp |
+|                                            | Metasploit | https://www.metasploit.com/ |
+|                                            | Nikto | https://www.cisa.gov/resources-tools/services/nikto |
+|                                            | Hydra | https://www.kali.org/tools/hydra/ |
+|                                            | John the Ripper | https://www.openwall.com/john/ |                                          
 | **Packet Analysis and Network Monitoring** | Wireshark | https://www.Wireshark.org/ |
 |                                            | TShark | https://www.Wireshark.org/docs/man-pages/tshark.html |
 |                                            | Snort | https://www.snort.org/ |
 |                                            | Zeek | https://zeek.org/ |
-|                                            | Brim/Zui | https://www.brimdata.io/download/ |
+|                                            | Zui/Brim | https://www.brimdata.io/download/ |
 |                                            | NetworkMiner | https://www.netresec.com/?page=NetworkMiner |
 | **Binary Analysis**                        | Binwalk | https://github.com/ReFirmLabs/binwalk |
 | **Log Analysis and SIEM**                  | ELK | https://www.elastic.co/elastic-stack |
@@ -337,7 +337,7 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Shodan | https://www.shodan.io/ |
 |                                            | Kasperky Threat Intelligence Portal | https://opentip.kaspersky.com/ |
 |                                            | Tria.ge | https://tria.ge/ |
-|                                             | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
+|                                            | Malpedia | https://malpedia.caad.fkie.fraunhofer.de/ |
 |                                            | Malware Bazaar | https://bazaar.abuse.ch/browse/ |
 | **Malware Analysis**                       | pestudio | https://www.winitor.com/download |
 |                                            | Detect It Easy | https://github.com/horsicq/Detect-It-Easy |
@@ -345,20 +345,22 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Floss | https://github.com/mandiant/flare-floss |
 |                                            | ProcDOT | https://www.procdot.com/downloadprocdotbinaries.htm |
 |                                            | Olevba | https://github.com/decalage2/oletools/blob/master/oletools/olevba.py |
-|                                             | Oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
+|                                            | Oledump | https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py |
 |                                            | IDA Free | https://hex-rays.com/ida-free |
 |                                            | scdbg | https://sandsprite.com/blogs/index.php?uid=7&pid=152 |
 |                                            | Radare2 | https://rada.re/n/ |
 |                                            | Cutter | https://cutter.re/ |
 |                                            | Ghidra | https://ghidra-sre.org/ |
 |                                            | AnyRun | https://any.run/ |
-|                                             | FakeNet | https://github.com/mandiant/flare-fakenet-ng |
+|                                            | FakeNet | https://github.com/mandiant/flare-fakenet-ng |
 |                                            | dnSpy | https://github.com/dnSpy/dnSpy |
 |                                            | Hybrid Analysis | https://hybrid-analysis.com/ |
 |                                            | Joes Sandbox | https://www.joesandbox.com/#windows |
 | **Forensics and Incident Response**        | Autopsy | https://www.autopsy.com/ |
 |                                            | EZ Tools | https://www.sans.org/tools/ez-tools/ |
 |                                            | Volatility3 | https://github.com/volatilityfoundation/volatility3 |
+|                                            | Volatility 2 | https://github.com/volatilityfoundation/volatility |
+|                                            | MemProcsFS | https://github.com/ufrisk/MemProcFS |
 |                                            | FTK Imager |  https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81 |                        
 |                                            | Browsing History View | https://www.nirsoft.net/utils/browsing_history_view.html |
 |                                            | CLEAPP | https://github.com/markmckinnon/cLeapp |
@@ -367,6 +369,8 @@ Some of the tools used in these writeups include (not limited to):
 |                                            | Event Log Explorer | https://eventlogxp.com/ |
 |                                            | NirSoft Tools | https://www.nirsoft.net/ |
 |                                            | R-Studio | https://www.r-studio.com/Data_Recovery_Download.shtml |
+|                                            | DB Browser for SQLite | https://sqlitebrowser.org/ |
+|                                            | Hindsight | https://github.com/obsidianforensics/hindsight |
 | **Mobile Forensics**                       | ALEAPP | https://github.com/abrignoni/ALEAPP |
 
 ## Personal Platform Profiles
