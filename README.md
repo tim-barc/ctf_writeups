@@ -1,5 +1,5 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-192-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-73-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-193-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-74-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-41-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
@@ -47,6 +47,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| Job Trap Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_job_trap_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/job-trap/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ |  `FTK Imager` `DB Browser for SQLite` `DCode` `Olevba` `EvtxECmd` `Timeline Explorer` `Notepad++`  |
 | Andromeda Bot Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_andromeda_bot_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/andromeda-bot/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ |  `MemProcFS` `EvtxECmd` `Timeline Explorer` `VirusTotal` `Memory Forensics`  |
 | T1598.002 Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_t1598_002_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/t1598002/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |  `oledump` `Google Admin Toolbox Messageheader` |
 | RevengeHotels APT Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_revengehotels_apt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/revengehotels-apt/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `Event Log Explorer` `Timeline Explorer` `EvtxECmd` `dnSpy` `CyberChef` |
