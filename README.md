@@ -1,7 +1,7 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-200-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-201-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-79-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-42-blue?style=flat)
-![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
+![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-3-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-22-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
@@ -182,6 +182,7 @@ This category focuses on packet analysis through PCAP files and zeek logs. Tools
 This section focuses on investigating mobile devices. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| AndroidBreach Lab                     | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_androidbreach_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/androidbreach/)      | 🟡 Medium | ⭐⭐⭐⭐ | `ALEAPP` `jadx` `CyberChef` `Android Forensics` |
 | The Crime lab                | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_the_crime_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/the-crime/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `ALEAPP` |
 | Eli Lab                      | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_denfenders_eli_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/eli/)      | 🟡 Medium | ⭐⭐ | `CLEAPP` |
 
