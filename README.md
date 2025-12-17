@@ -1,5 +1,5 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-199-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-78-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-200-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-79-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-42-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-2-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
@@ -47,6 +47,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| Stealthy Ascent Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_stealthy_ascent_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/stealthy-ascent/) | 🟡 Medium  | ⭐⭐⭐ | `Built-in Linux Tools` `Linux Forensics` |
 | RepoReaper Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_reporeaper_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/reporeaper/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `FTK Imager` `DB Browser for SQLite` `DCode` `Event Log Explorer` `MFTECmd` `Timeline Explorer` `VirusTotal` `Registry Explorer` `PECmd` `UAC Bypass` `Privilege Escalation` |
 | Maranhao Lab| [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_maranhao_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/maranhao/) | 🟢 Easy | ⭐⭐⭐⭐⭐ |  `FTK Imager` `EvtxECmd` `Timeline Explorer` `DB Browser for SQLite` `MFTECmd` `VirusTotal` `Infostealer`  |
 | TheTruth Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_thetruth_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/thetruth/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ | `Autopsy` `DB Browser for SQLite` `DCode` `JADX` `Mobile Forensics` `Android Forensics` |
