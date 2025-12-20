@@ -1,6 +1,6 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-201-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-202-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-79-blue?style=flat)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-42-blue?style=flat)
+![Network Forensics](https://img.shields.io/badge/Network%20Forensics-43-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-3-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
 ![SIEM](https://img.shields.io/badge/SIEM-22-blue?style=flat)
@@ -133,6 +133,7 @@ These challenges mainly involve investigating compromised endpoints, primarily W
 This category focuses on packet analysis through PCAP files and zeek logs. Tools like Wireshark, Zeek, and Brim are frequently used. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| JetBrains Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_jetbrains_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/jetbrains/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `CVE-2024-27198` |
 | Openfire Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_openfire_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/openfire/) | 🟢 Easy | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `CyberChef` `CVE-2023-32315` |
 | Trident Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_trident_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/trident/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `NetworkMiner` `VirusTotal` `IDA Pro` `scdbg` `CVE-2021-40444` `shellcode analysis` |
 | NukeTheBrowser Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_nuke_the_browser_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/nukethebrowser/) | 🔴 Hard | ⭐⭐⭐⭐⭐ | `Wireshark` `Zui` `VirusTotal` `scdbg` `CVE-2005-2127` `shellcode analysis` |
