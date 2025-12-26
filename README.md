@@ -1,4 +1,4 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-202-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-203-blue?style=flat)
 ![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-79-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-43-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-3-blue?style=flat)
@@ -6,7 +6,7 @@
 ![SIEM](https://img.shields.io/badge/SIEM-22-blue?style=flat)
 ![CTI](https://img.shields.io/badge/CTI-8-blue?style=flat)
 ![Email Analysis](https://img.shields.io/badge/Email%20Analysis-5-blue?style=flat)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-17-blue?style=flat)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-18-blue?style=flat)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-3-blue?style=flat)
 ![Pentesting](https://img.shields.io/badge/Pentesting-20-blue?style=flat)
 
@@ -258,6 +258,7 @@ This section dives into investigating emails, primarily phishing emails. You wil
 This section focuses on static and dynamic malware analysis. These writeups document the analysis of malicious PE files, scripts, macros, and more. 
 | Challenge                                 | Writeup                                                                                   | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| MalaCrypt Lab                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_malacrypt_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/malacrypt/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `PE Studio` `Floss` `Strings` `CyberChef` `VirusTotal` `ProcMon` `Cutter` `Capa` |
 | XWorm Lab                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xworm_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xworm/) | 🟡 Medium | ⭐⭐⭐⭐⭐ | `PE Studio` `DIE` `dnSpy` `ANY.RUN` `VirusTotal` |
 | MalBuster                                 | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/malbuster_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/malbuster)                            | 🟡 Medium | ⭐⭐⭐⭐ | `pestudio` `detect it easy` `VirusTotal` `CTF Explorer` `capa` `floss` |
 | Mr. Phisher                               | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/mrphisher_writeup.pdf)           | [TryHackMe](https://tryhackme.com/r/room/mrphisher)                            | 🟢 Easy | ⭐ | `LibreOffice Writer` |
