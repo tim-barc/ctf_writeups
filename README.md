@@ -1,5 +1,5 @@
-![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-208-blue?style=flat)
-![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-81-blue?style=flat)
+![Total Writeups](https://img.shields.io/badge/CTF%20Writeups-209-blue?style=flat)
+![Endpoint Forensics](https://img.shields.io/badge/Endpoint%20Forensics-82-blue?style=flat)
 ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-44-blue?style=flat)
 ![Mobile Forensics](https://img.shields.io/badge/Mobile%20Forensics-3-blue?style=flat)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2-blue?style=flat)
@@ -47,6 +47,7 @@ When it comes to what platform to use, that depends on your interests and skill 
 These challenges mainly involve investigating compromised endpoints, primarily Windows and Linux, using a variety of forensic tools. 
 | Challenge                      | Writeup                                                                              | Challenge Link                                                                 | Difficulty | Rating | Tags | 
 |-------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------|----------|-----------------------------|
+| KioskExpo7 Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_kioskexpo7_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/kioskexpo7/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ | `DB Browser for SQLite` `Registry Explorer` `MFTECmd` `Timeline Explorer` `PECmd` `Notepad++` `R-Studio` `MFT Explorer` |
 | XMRig Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_xmrig_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/xmrig/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ | `Built-in Linux Tools` `VirusTotal` `Photorec` `Linux Forensics` |
 | ConfluenceRCE Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_confluencerce_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/confluencerce/) | 🟡 Medium  | ⭐⭐⭐⭐⭐ | `grep` `uniq` `cut` `VirusTotal` `Built-in Linux Tools` `Linux Forensics` |
 | Stealthy Ascent Lab | [PDF](https://github.com/tim-barc/ctf_writeups/blob/main/writeups/cyber_defenders_stealthy_ascent_lab.pdf) | [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/stealthy-ascent/) | 🟡 Medium  | ⭐⭐⭐ | `Built-in Linux Tools` `Linux Forensics` |
